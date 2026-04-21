@@ -1,0 +1,56 @@
+---
+source: KSCS_2025_cong_nhan_hoc_phan.docx
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: 2025
+title: Phạm vi áp dụng và mục đích công nhận học phần vào chương trình kỹ sư chuyên sâu
+topic_tags: ["công nhận học phần KSCS", "tích lũy tín chỉ KSCS", "chương trình tích hợp Cử nhân-KSCS", "điểm R", "ĐHBK Hà Nội 2025"]
+---
+
+HƯỚNG DẪN CÔNG NHẬN HỌC PHẦN VÀO CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU
+
+I. Phạm vi áp dụng:
+1. Dành cho học viên chương trình đào tạo kỹ sư chuyên sâu (KSCS) theo chương trình tích hợp.
+2. Dành cho học viên đã được cấp mã số học viên tạm thời và học viên đã được công nhận chính thức.
+
+II. Mục đích:
+1. Học viên chọn các học phần KSCS đã tích lũy khi đang học cử nhân vào bảng điểm KSCS.
+   - Điều kiện áp dụng: Được công nhận tối đa 15 tín chỉ học trước.
+
+2. Học viên học theo chương trình đào tạo tích hợp (CTĐT) sẽ được lựa chọn để công nhận tối đa 12 tín chỉ trong CTĐT cử nhân vào bảng điểm CTĐT KSCS.
+   - Điều kiện áp dụng:
+     + Chỉ áp dụng với các học viên đã tốt nghiệp cử nhân và được công nhận chính thức là học viên CTĐT KSCS.
+     + Số 12 tín chỉ được công nhận này là của các học phần đáp ứng đồng thời 02 điều kiện: Thuộc Mô đun định hướng của CTĐT cử nhân (không tính Thực tập và Đồ án tốt nghiệp cử nhân) và có trong bảng điểm tốt nghiệp cử nhân của sinh viên.
+
+Ghi chú:
+- 12 tín chỉ này sẽ ghi điểm R (không tính vào CPA tốt nghiệp KSCS, chỉ tính vào tổng số tín chỉ tích lũy).
+- Tổng số tín chỉ trong bảng điểm KSCS sẽ là: 12 tín chỉ công nhận (điểm R) + 48 tín chỉ thuộc khung CTĐT KSCS tích hợp = 60 tín chỉ (tối thiểu).
+
+---
+source: KSCS_2025_cong_nhan_hoc_phan.docx
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: 2025
+title: Các bước thực hiện công nhận học phần vào chương trình kỹ sư chuyên sâu qua hệ thống
+topic_tags: ["các bước công nhận KSCS", "hệ thống ctt-sis.hust.edu.vn", "xác nhận học phần học trước", "lấy HP cử nhân vào KSCS", "ĐHBK Hà Nội 2025"]
+---
+
+III. Các bước thực hiện:
+
+1. Học viên đăng nhập: https://ctt-sis.hust.edu.vn
+2. Sau khi đăng nhập, tại menu cá nhân, chọn mục tương ứng trong phần "KỸ SƯ CHUYÊN SÂU ĐẶC THÙ":
+   - Xác nhận học phần học trước ở Cử nhân (Dành cho mục II.1)
+   - Lấy HP cử nhân vào BĐ tốt nghiệp kỹ sư (Dành cho mục II.2)
+
+Hệ thống sẽ hiển thị giao diện để học viên lựa chọn các học phần mong muốn tích lũy hoặc tích hợp vào chương trình Kỹ sư chuyên sâu. Lưu ý rằng khi đã bấm "Gửi đăng ký", danh mục sẽ KHÔNG được phép điều chỉnh lại.
+Lưu ý:
+Đối với xác nhận học phần học trước ở Cử nhân: tối đa 15TC
+Đối với lấy HP cử nhân vào BĐ tốt nghiệp kỹ sư: tối đa 12TC. Các học phần phải thuộc khối Mô đun định hướng, không bao gồm Thực tập tốt nghiệp, Đồ án tốt nghiệp cử nhân hoặc Đồ án nghiên cứu cử nhân. Các học phần này sẽ ghi điểm R và không tính vào CPA tốt nghiệp.
+
+Có thể xem hướng dẫn chi tiết kèm ảnh tại: https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_KSCS/02_%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%B4ng%20nh%E1%BA%ADn%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20v%C3%A0o%20CT%C4%90T%20KSCS.pdf

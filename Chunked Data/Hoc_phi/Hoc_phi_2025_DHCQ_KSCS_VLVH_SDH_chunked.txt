@@ -1,0 +1,174 @@
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_001
+chunk_index: 1
+language: vi
+category: Hoc_phi
+year: 2025
+title: Quyết định phê duyệt học phí năm học 2025-2026 - Phạm vi, căn cứ pháp lý và hiệu lực thi hành
+topic_tags: ["quyết định học phí", "năm học 2025-2026", "Bách khoa Hà Nội", "tín chỉ học phí", "căn cứ pháp lý"]
+---
+Quyết định số 10232/QĐ-ĐHBK ngày 12 tháng 9 năm 2025 của Giám đốc Đại học Bách khoa Hà Nội phê duyệt mức học phí các chương trình đào tạo đại học chính quy, đào tạo kỹ sư chuyên sâu, vừa làm vừa học và sau đại học áp dụng cho năm học 2025-2026. Quyết định được ban hành căn cứ Luật Giáo dục đại học (sửa đổi năm 2018), Nghị định số 99/2019/NĐ-CP, Nghị định số 238/2025/NĐ-CP ngày 03/9/2025 về chính sách học phí và giá dịch vụ trong lĩnh vực giáo dục đào tạo, cùng các Nghị quyết nội bộ của Hội đồng Đại học Bách khoa Hà Nội.
+
+Học phí được tính theo số tín chỉ học phí (TCHP) của các học phần sinh viên đăng ký học trong mỗi học kỳ. Quy đổi từ tín chỉ học tập (TCHT) sang TCHP theo từng loại học phần được quy định tại Phụ lục II của quyết định. Quyết định có hiệu lực kể từ ngày ký, áp dụng cho sinh viên đại học hệ chính quy, kỹ sư chuyên sâu, vừa làm vừa học và sau đại học.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_002
+chunk_index: 2
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí đại học chính quy 2025-2026 - Chương trình đào tạo chuẩn theo ngành (3 mức: 550, 600, 630 nghìn/TCHP)
+topic_tags: ["học phí chương trình chuẩn", "đại học chính quy", "tín chỉ học phí", "mức học phí theo ngành", "2025-2026"]
+---
+Mức học phí cho các chương trình đào tạo đại học chính quy chuẩn tại Đại học Bách khoa Hà Nội năm học 2025-2026, tính theo đơn vị đồng/tín chỉ học phí (TCHP), chia thành ba nhóm ngành như sau:
+
+Nhóm 630.000 đồng/TCHP gồm: Kỹ thuật Cơ điện tử, Kỹ thuật Điện tử - Viễn thông, Kỹ thuật Điều khiển - Tự động hóa, Khoa học Máy tính, Kỹ thuật Máy tính.
+
+Nhóm 600.000 đồng/TCHP gồm: Toán Tin, Hệ thống Thông tin Quản lý, Kỹ thuật Y sinh, Kỹ thuật Cơ khí, Kỹ thuật Cơ khí Động lực, Kỹ thuật Thực phẩm, Kỹ thuật Sinh học, Kỹ thuật Ô tô, Kỹ thuật Điện, Tài chính - Ngân hàng, Quản lý Công nghiệp, Quản lý Năng lượng, Quản trị Kinh doanh, Kế toán, Ngôn ngữ Anh, Tiếng Trung Khoa học Công nghệ.
+
+Nhóm 550.000 đồng/TCHP gồm: Kỹ thuật Hóa học, Hóa học, Kỹ thuật In, Kỹ thuật Vật liệu, Kỹ thuật Vật liệu Polyme và Compozit, Kỹ thuật Vi điện tử và Công nghệ Nano, Kỹ thuật Hàng không, Vật lý Kỹ thuật, Kỹ thuật Hạt nhân, Kỹ thuật Nhiệt, Vật lý Y khoa, Công nghệ Dệt may, Kỹ thuật Dệt, Kỹ thuật Môi trường, Quản lý Tài nguyên và Môi trường, Công nghệ Giáo dục, Quản lý Giáo dục, và các chương trình đào tạo chuẩn khác chưa được liệt kê.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_003
+chunk_index: 3
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí đại học chính quy 2025-2026 - Chương trình đặc biệt, ELITECH và chương trình tài năng (học phí 2 mức theo loại học phần)
+topic_tags: ["học phí chương trình đặc biệt", "ELITECH", "chương trình tiên tiến", "Global ICT", "Việt-Nhật", "đào tạo tài năng", "PFIEV", "IPE"]
+---
+Các chương trình đào tạo đặc biệt và ELITECH tại Đại học Bách khoa Hà Nội năm học 2025-2026 áp dụng hai mức học phí phân theo loại học phần: mức thấp hơn cho các học phần Lý luận chính trị, Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Tiếng Anh cơ bản và cơ sở; mức cao hơn cho các học phần còn lại. Đơn vị: nghìn đồng/TCHP.
+
+Chương trình Công nghệ thông tin Việt-Nhật và Global ICT: 700 / 850. Chương trình tiên tiến Khoa học Dữ liệu và Trí tuệ Nhân tạo, Logistics và Quản lý Chuỗi cung ứng: 700 / 1.020. Chương trình tiên tiến Kỹ thuật Điều khiển và Tự động hóa: 700 / 820. Chương trình tiên tiến Kỹ thuật Cơ điện tử: 700 / 800. Chương trình Công nghệ thông tin Việt-Pháp và các chương trình tiên tiến còn lại: 700 / 750. Các chương trình Đào tạo Tài năng: 650 / 650 (áp dụng đồng mức cho cả hai nhóm học phần). Chương trình PFIEV và chương trình Tiếng Anh Chuyên nghiệp Quốc tế (IPE): 700 / 700.
+
+Lưu ý riêng với chương trình IPE: sinh viên phải đóng thêm phí ghi danh và kiểm định chất lượng của trường đối tác, tạm tính là 14 triệu đồng/năm học với khoá 69 và 70, và 13 triệu đồng/năm học với các khoá 68 trở về trước.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_004
+chunk_index: 4
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí đại học chính quy 2025-2026 - Chương trình hợp tác quốc tế và học phần ngoại ngữ (Anh, Đức, Pháp, Nhật theo trình độ)
+topic_tags: ["học phí hợp tác quốc tế", "học phí ngoại ngữ", "ME-GU", "IT-LTU", "tiếng Anh", "tiếng Nhật", "trình độ A1 A2 B1 B2"]
+---
+Các chương trình đào tạo hợp tác quốc tế tại Đại học Bách khoa Hà Nội năm học 2025-2026 áp dụng hai mức học phí: mức thấp hơn cho học phần Lý luận chính trị, Giáo dục thể chất, Giáo dục Quốc phòng - An ninh; mức cao hơn cho các học phần khác (trừ ngoại ngữ). Đơn vị: nghìn đồng/TCHP.
+
+Chương trình ME-GU, ME-NUT, IT-LTU, IT-VUW: 700 / 950. Chương trình ME-LUH, ET-LUH, IT-GINP: 700 / 900. Chương trình EM-VUW, EM-NU (IEM): 700 / 1.020.
+
+Học phí các học phần ngoại ngữ (Tiếng Anh, Đức, Pháp, Nhật) trong chương trình đào tạo được phân theo trình độ như sau: Trình độ A1.1 và A1.2 (Anh/Đức/Pháp), Tiếng Nhật 1: 725.000 đồng/TCHP. Trình độ A2.1 và A2.2, Tiếng Nhật 2: 855.000 đồng/TCHP. Trình độ B1.1 và B1.2, Tiếng Nhật 3 và Tiếng Nhật 4: 965.000 đồng/TCHP. Trình độ B2.1 và B2.2, Tiếng Nhật 5: 1.030.000 đồng/TCHP. Các trình độ nâng cao: 1.085.000 đồng/TCHP.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_005
+chunk_index: 5
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí đại học chính quy 2025-2026 - Chương trình TROY, học lại, học kỳ hè, sinh viên nước ngoài và kỹ sư chuyên sâu
+topic_tags: ["học phí TROY", "học lại", "học kỳ hè", "sinh viên nước ngoài", "kỹ sư chuyên sâu", "hệ số học phí", "lớp nhỏ"]
+---
+Học phí chương trình TROY (do Đại học TROY cấp bằng) tại Đại học Bách khoa Hà Nội năm học 2025-2026: chương trình TROY-BA và TROY-IT áp dụng mức 30 triệu đồng/học kỳ với khoá 70, 28,6 triệu đồng/học kỳ với khoá 69, và 26 triệu đồng/học kỳ với khoá 68 trở về trước. Một năm học gồm 3 học kỳ. Sinh viên phải đóng thêm một lần phí ghi danh của trường đối tác, tạm tính là 1,7 triệu đồng.
+
+Các mức học phí đặc biệt khác áp dụng cho đại học chính quy: Học phần học lại, học cải thiện điểm, học ngoài khung chương trình, học ngành thứ hai hoặc văn bằng thứ hai áp dụng cùng mức học phí chương trình chuẩn tương ứng. Học kỳ hè tính bằng 1,5 lần mức chuẩn, trừ một số học phần do Giám đốc đại học quyết định riêng. Sinh viên nước ngoài tự chi trả tính bằng 1,5 lần mức chuẩn.
+
+Học phí chương trình kỹ sư chuyên sâu (KSCS) bằng mức học phí chương trình đại học chính quy chuẩn tương ứng. Riêng KSCS Kỹ thuật Ô tô số áp dụng mức học phí ngành Kỹ thuật Ô tô; KSCS Thiết kế vi mạch áp dụng mức Kỹ thuật Điện tử - Viễn thông; KSCS Trí tuệ Nhân tạo sinh (GenAI) áp dụng mức chương trình Khoa học Dữ liệu và Trí tuệ Nhân tạo (IT-E10).
+
+Đối với lớp học lại ngoài kế hoạch theo đề nghị của sinh viên có quy mô nhỏ: lớp từ 10 đến dưới 20 sinh viên áp dụng hệ số 1,5; lớp dưới 10 sinh viên áp dụng hệ số 2,0.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_006
+chunk_index: 6
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí đại học chính quy 2025-2026 - Chế độ miễn giảm học phí theo chính sách Nhà nước
+topic_tags: ["miễn giảm học phí", "chính sách học phí", "hỗ trợ học phí", "chênh lệch học phí", "kỹ sư chuyên sâu ngoại lệ"]
+---
+Chính sách hỗ trợ miễn giảm học phí tại Đại học Bách khoa Hà Nội năm học 2025-2026 áp dụng như sau: Đại học hỗ trợ toàn bộ phần chênh lệch giữa mức học phí của Đại học Bách khoa Hà Nội với mức học phí được miễn hoặc giảm theo quy định của Nhà nước, đối với sinh viên thuộc diện hưởng chế độ chính sách miễn giảm học phí.
+
+Lưu ý quan trọng: chính sách hỗ trợ chênh lệch học phí và chế độ miễn giảm theo quy định Nhà nước nêu trên không áp dụng với các học phần thuộc khung chương trình đào tạo kỹ sư chuyên sâu (KSCS).
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_007
+chunk_index: 7
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí hình thức vừa làm vừa học 2025-2026 - Mức chuẩn và hệ số lớp nhỏ
+topic_tags: ["học phí vừa làm vừa học", "đào tạo tại chức", "440 nghìn TCHP", "hệ số lớp nhỏ", "học phí ngoài đại học"]
+---
+Mức học phí cho các chương trình đào tạo hình thức vừa làm vừa học tại Đại học Bách khoa Hà Nội năm học 2025-2026 là 440.000 đồng/TCHP, áp dụng chung cho tất cả các ngành và chương trình đào tạo chuẩn, bao gồm: Công nghệ thông tin, Kỹ thuật Máy tính, Khoa học Máy tính, Kỹ thuật Điều khiển và Tự động hóa, Kỹ thuật Điện, Kỹ thuật Điện tử - Viễn thông, Kỹ thuật Y sinh, Ngôn ngữ Anh, Kỹ thuật Ô tô, Kỹ thuật Vật liệu, Kỹ thuật In, Kỹ thuật Hóa học, Kỹ thuật Nhiệt, Công nghệ Dệt may, Kỹ thuật Dệt, Quản trị Kinh doanh, Kế toán, Tài chính - Ngân hàng, Kỹ thuật Cơ khí, Kỹ thuật Cơ điện tử, Kỹ thuật Sinh học, Kỹ thuật Thực phẩm, và các ngành/chương trình chuẩn khác.
+
+Đối với các học phần tổ chức ngoài Đại học: mức học phí bằng mức chuẩn cộng thêm chi phí triển khai thực tế. Đối với lớp có quy mô nhỏ: lớp từ 21 đến 25 sinh viên áp dụng hệ số 1,25; lớp từ 15 đến 20 sinh viên áp dụng hệ số 1,5.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_008
+chunk_index: 8
+language: vi
+category: Hoc_phi
+year: 2025
+title: Học phí sau đại học 2025-2026 - Thạc sĩ, Tiến sĩ và các mức phí đặc biệt (học lại, gia hạn, nước ngoài)
+topic_tags: ["học phí thạc sĩ", "học phí tiến sĩ", "sau đại học", "gia hạn học tập", "học lại sau đại học", "sinh viên nước ngoài"]
+---
+Mức học phí chương trình sau đại học chuẩn tại Đại học Bách khoa Hà Nội năm học 2025-2026: Thạc sĩ ngành Kỹ thuật và Công nghệ: 720.000 đồng/TCHP; Thạc sĩ ngành Kinh tế: 780.000 đồng/TCHP; Tiến sĩ: 26 triệu đồng/năm.
+
+Các mức học phí đặc biệt áp dụng cho hệ sau đại học: Học phần học lại hoặc bổ sung kiến thức trong khung chương trình đào tạo áp dụng mức học phí chuẩn tương ứng. Học phần học quá thời gian thiết kế của chương trình đào tạo tính bằng 1,5 lần mức chuẩn; học viên phải gia hạn thời gian học tập nộp thêm 5.000.000 đồng/học kỳ. Học phần tổ chức ngoài Đại học tính bằng mức chuẩn cộng thêm chi phí triển khai thực tế. Sinh viên nước ngoài tự chi trả tính bằng 1,5 lần mức chuẩn.
+
+Học phí riêng cho chương trình Tiến sĩ: học lại học phần tính 850.000 đồng/TCHP; thực hiện lại một chuyên đề tiến sĩ tính 2.200.000 đồng/chuyên đề. Nghiên cứu sinh phải gia hạn thời gian nghiên cứu áp dụng mức học phí chuẩn Tiến sĩ (26 triệu đồng/năm).
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_009
+chunk_index: 9
+language: vi
+category: Hoc_phi
+year: 2025
+title: Quy đổi tín chỉ học tập sang tín chỉ học phí (TCHT→TCHP) - Hệ đại học chính quy theo loại học phần
+topic_tags: ["quy đổi tín chỉ học phí", "TCHT TCHP", "đại học chính quy", "thực tập", "đồ án tốt nghiệp", "giáo dục thể chất", "thí nghiệm"]
+---
+Phụ lục II Quyết định số 10232/QĐ-ĐHBK ngày 12/9/2025 quy định cách quy đổi từ tín chỉ học tập (TCHT) sang tín chỉ học phí (TCHP) cho từng loại học phần trong hệ đại học chính quy tại Đại học Bách khoa Hà Nội, áp dụng năm học 2025-2026.
+
+Học phần thông thường: giờ lý thuyết, bài tập và bài tập lớn quy đổi tính 15 tiết = 1 TCHP; giờ thí nghiệm và thực hành tính 15 tiết = 1,5 TCHP. Học phần thí nghiệm chuyên ngành: 1 TCHT = 3,0 TCHP. Thực tập cơ sở, thực tập kỹ thuật và thực tập nhận thức: 1 TCHT = 2,0 TCHP. Thực tập tốt nghiệp: 1 TCHT = 2,5 TCHP. Khóa luận tốt nghiệp và đồ án tốt nghiệp: 1 TCHT = 2,5 TCHP. Đồ án môn học và đồ án chuyên ngành: 1 TCHT = 2,0 TCHP. Học phần Giáo dục thể chất: 1 TCHT = 1,5 TCHP.
+
+
+---
+source: QD_HocPhi_DHBK_2025-2026.docx
+parent_doc_id: QD_HocPhi_DHBK_2025-2026
+chunk_id: QD_HocPhi_DHBK_2025-2026_010
+chunk_index: 10
+language: vi
+category: Hoc_phi
+year: 2025
+title: Quy đổi tín chỉ học tập sang tín chỉ học phí (TCHT→TCHP) - Hệ vừa làm vừa học và hệ sau đại học
+topic_tags: ["quy đổi tín chỉ học phí", "TCHT TCHP", "vừa làm vừa học", "sau đại học", "luận văn thạc sĩ", "thí nghiệm chuyên ngành"]
+---
+Phụ lục II Quyết định số 10232/QĐ-ĐHBK ngày 12/9/2025 quy định cách quy đổi từ tín chỉ học tập (TCHT) sang tín chỉ học phí (TCHP) cho hệ vừa làm vừa học và hệ sau đại học tại Đại học Bách khoa Hà Nội, áp dụng năm học 2025-2026.
+
+Hệ vừa làm vừa học: Học phần thông thường — giờ lý thuyết và bài tập tính 15 tiết = 1,0 TCHP; giờ thí nghiệm và thực hành tính 15 tiết = 1,5 TCHP. Học phần thí nghiệm chuyên ngành: 1 TCHT = 3,0 TCHP. Đồ án môn học và đồ án chuyên ngành: 1 TCHT = 2,0 TCHP. Thực tập cơ sở, thực tập kỹ thuật và thực tập nhận thức: 1 TCHT = 2,0 TCHP. Thực tập tốt nghiệp: 1 TCHT = 2,5 TCHP. Khóa luận tốt nghiệp và đồ án tốt nghiệp: 1 TCHT = 2,5 TCHP.
+
+Hệ sau đại học: Học phần thông thường — giờ lý thuyết, bài tập và bài tập lớn quy đổi tính 15 tiết = 1 TCHP; giờ thí nghiệm và thực hành tính 15 tiết = 1,5 TCHP. Học phần thí nghiệm chuyên ngành: 1 TCHT = 1,5 TCHP. Đồ án chuyên ngành và luận văn thạc sĩ: 1 TCHT = 1,5 TCHP.

@@ -1,0 +1,213 @@
+--- Thông tin file ---
+Danh mục: QCĐT
+Năm: 2025
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: 2025
+title: Quyết định số 5445/QĐ-ĐHBK ban hành Quy chế đào tạo Đại học Bách khoa Hà Nội năm 2025
+topic_tags: ["quy chế đào tạo", "2025", "tín chỉ", "GPA", "CPA", "tốt nghiệp", "cử nhân", "kĩ sư", "thạc sĩ", "trừ điểm vắng mặt"]
+---
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Số: 5445/QĐ-ĐHBK
+Hà Nội, ngày 28 tháng 5 năm 2025
+
+QUYẾT ĐỊNH
+Về việc ban hành Quy chế đào tạo của Đại học Bách khoa Hà Nội
+
+GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Căn cứ các Luật Giáo dục đại học và các Thông tư của Bộ Giáo dục và Đào tạo về quy chế đào tạo đại học, thạc sĩ, tiến sĩ.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo quyết định này Quy chế Đào tạo của Đại học Bách khoa Hà Nội.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+
+CHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng.
+Điều 2. Ngành đào tạo, chương trình đào tạo.
+Quy định về Chương trình ELITECH, Chương trình Tài năng. Thời gian và khối lượng học tập chuẩn:
+
+| Chương trình | Người học | Thời gian | Khối lượng tối thiểu |
+| :--- | :--- | :--- | :--- |
+| Cử nhân | Tốt nghiệp THPT | 4 năm | 132 tín chỉ |
+| Kỹ sư | Tốt nghiệp cử nhân theo chương trình tích hợp | 1,5 năm | 48 tín chỉ |
+| | Tốt nghiệp cử nhân | 2 năm | 60 tín chỉ |
+| Thạc sĩ | Tốt nghiệp cử nhân | 2 năm | 60 tín chỉ |
+| | Tốt nghiệp cử nhân theo chương trình tích hợp | 1,5 năm | 48 tín chỉ |
+| Tiến sĩ | Tốt nghiệp thạc sĩ | 3 năm | 106 tín chỉ |
+| | Tốt nghiệp đại học | 4 năm | 151 tín chỉ |
+
+Điều 3. Thời gian và kế hoạch học tập.
+Điều 4. Tín chỉ và học phần.
+Điều 5. Điểm học phần.
+Quy định về điểm quá trình liên quan đến vắng mặt:
+
+| Số lần vắng mặt: | 0 | 1-2 | 3-4 | ≥ 5 |
+| :--- | :---: | :---: | :---: | :---: |
+| Điểm quá trình được cộng/trừ: | +1 | 0 | -1 | -2 |
+
+Quy tắc quy đổi điểm:
+
+| Điểm học phần theo thang 10 | 0,0 ÷ 3,9 | 4,0 ÷ 4,9 | 5,0 ÷ 5,4 | 5,5 ÷ 6,4 | 6,5 ÷ 6,9 | 7,0 ÷ 7,9 | 8,0 ÷ 8,4 | 8,5 ÷ 9,4 | 9,5 ÷ 10 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Điểm chữ quy đổi | F | D | D+ | C | C+ | B | B+ | A | A+ |
+| Điểm số quy đổi | 0 | 1 | 1,5 | 2,0 | 2,5 | 3,0 | 3,5 | 4,0 | 4,0 |
+
+Điều 6. Hoãn thi, miễn thi, phúc tra và khiếu nại điểm.
+Điều 7. Số tín chỉ tích lũy, điểm trung bình tích lũy (GPA, CPA).
+Điều 8. Chuyển cơ sở đào tạo khác.
+Điều 9. Học phí.
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: 2025
+title: Chương I - Những quy định chung của Quy chế đào tạo ĐHBK Hà Nội 2025
+topic_tags: ["quy chế đào tạo", "025", "đào tạo đại học", "tín chỉ", "thời gian học tập", "GPA", "CPA", "học phí"]
+---
+
+CHƯƠNG II: ĐÀO TẠO ĐẠI HỌC
+Điều 10. Đăng ký học tập chương trình đại học.
+Quy trình 3 giai đoạn: Đăng ký học phần, Đăng ký lớp chính thức, Điều chỉnh đăng ký. Số lượng tín chỉ tối đa 24 TC, tối thiểu 12 TC.
+Điều 11. Công nhận kết quả học tập và chuyển đổi tín chỉ.
+Điều 12. Ý kiến phản hồi của người học, đánh giá kết quả học tập.
+Xếp hạng trình độ năm học:
+
+| Số TCTL | < 32 | 32 - 63 | 64 - 95 | 96 - 127 | ≥ 128 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Trình độ | Năm thứ nhất | Năm thứ hai | Năm thứ ba | Năm thứ tư | Năm thứ năm |
+
+Xếp loại học lực:
+
+| GPA hoặc CPA | < 1,0 | 1,0 - 1,99 | 2,0 - 2,49 | 2,5 - 3,19 | 3,2 - 3,59 | 3,6 - 4,0 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Xếp loại | Kém | Yếu | Trung bình | Khá | Giỏi | Xuất sắc |
+
+Quy đổi sang thang điểm 10:
+
+| Dải điểm thang 4 | Dải điểm thang 10 tương đương | Công thức quy đổi Điểm thang 10 = Điểm thang 4 * a + b |
+| :--- | :--- | :--- |
+| 2,0 đến cận 2,5 | 5,5 đến cận 7,0 | a = 3,00; b = -0,5 |
+| 2,5 đến cận 3,2 | 7,0 đến cận 8,0 | a = 1,42; b = 3,45 |
+| 3,2 đến cận 3,6 | 8,0 đến cận 9,0 | a = 2,50; b = 0,00 |
+| 3,6 đến tròn 4,0 | 9,0 đến tròn 10 | a = 2,50; b = 0,00 |
+
+Điều 13. Đồ án/khóa luận tốt nghiệp đại học.
+Điều 14. Đăng ký tốt nghiệp đại học.
+Điều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học.
+Điều 16. Nghỉ học tạm thời và tự nguyện thôi học.
+Điều 17. Chuyển chương trình đào tạo, hình thức đào tạo.
+Điều 18. Học cùng lúc hai chương trình.
+Điều 19. Cảnh báo học tập và buộc thôi học.
+Điều 20. Xử lý vi phạm đối với sinh viên.
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_003
+chunk_index: 4
+language: vi
+category: Huong_dan
+year: 2025
+title: Chương II - Đào tạo đại học theo Quy chế ĐHBK Hà Nội 2025
+topic_tags: ["quy chế đào tạo", "2025", "đào tạo kỹ sư", "chương trình kỹ sư", "học trước", "tốt nghiệp kỹ sư"]
+---
+
+CHƯƠNG III: ĐÀO TẠO KỸ SƯ
+Điều 21. Đăng ký học tập chương trình kỹ sư.
+Đăng ký tối thiểu 12 TC, tối đa 24 TC. Học viên cử nhân được học trước tối đa 15 TC chương trình kỹ sư.
+Điều 22. Thực tập tốt nghiệp và Đồ án tốt nghiệp kỹ sư.
+Điểm đạt từ C trở lên.
+Điều 23. Đăng ký tốt nghiệp kỹ sư.
+Điều 24. Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư.
+Điều 25. Nghỉ học tạm thời, tự nguyện thôi học và buộc thôi học.
+Điều 26. Xử lý vi phạm đối với học viên.
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_005
+chunk_index: 5
+language: vi
+category: Huong_dan
+year: 2025
+title: Chương IV - Đào tạo thạc sĩ theo Quy chế ĐHBK Hà Nội 2025
+topic_tags: ["quy chế đào tạo", "2025", "VLVH", "bảo vệ luận văn thạc sĩ", "đào tạo thạc sĩ", "luận văn thạc sĩ", "học bổ sung", "tốt nghiệp thạc sĩ"]
+---
+
+CHƯƠNG IV: ĐÀO TẠO THẠC SĨ
+Điều 27. Đăng ký học tập chương trình thạc sĩ.
+Hệ chính quy đăng ký tối đa 24 TC/kỳ, không quá 45 TC/năm. Hệ VLVH tối đa 20 TC/kỳ, không quá 30 TC/năm.
+Điều 28. Học bổ sung, công nhận tín chỉ.
+Học bổ sung tối đa 15 TC. Công nhận tín chỉ (điểm R) tối đa 30 TC.
+Điều 29. Đăng ký đề tài luận văn thạc sĩ.
+Điều 30. Luận văn thạc sĩ.
+Điều 31. Điều kiện được bảo vệ luận văn thạc sĩ. Đạt chuẩn ngoại ngữ đầu ra bậc 4/6.
+Điều 32. Điểm luận văn thạc sĩ.
+Điều 33. Bảo vệ luận văn lần thứ hai.
+Điều 34. Điều kiện tốt nghiệp thạc sĩ và xếp hạng tốt nghiệp.
+Xếp hạng tốt nghiệp:
+
+| CPA | 2,0 - 2,49 | 2,5 - 3,19 | 3,2 - 3,59 | 3,6 - 4,0 |
+| :--- | :---: | :---: | :---: | :---: |
+| Xếp loại | Trung bình | Khá | Giỏi | Xuất sắc |
+
+Điều 35. Nghỉ học tạm thời và bảo lưu kết quả học tập.
+Điều 36. Gia hạn thời gian học tập, thôi học.
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_006
+chunk_index: 6
+language: vi
+category: Huong_dan
+year: 2025
+title: Chương V - Đào tạo tiến sĩ 
+topic_tags: ["quy chế đào tạo", "2025", "đào tạo tiến sĩ", "luận án tiến sĩ"]
+---
+
+CHƯƠNG V: ĐÀO TẠO TIẾN SĨ
+Điều 37. Lập kế hoạch và báo cáo tiến độ thực hiện.
+Báo cáo tiến độ định kỳ mỗi 6 tháng.
+Điều 38. Học phần bổ sung và học phần tiến sĩ.
+NCS có bằng thạc sĩ học bổ sung tối thiểu 4 TC. NCS chưa có bằng thạc sĩ học toàn bộ học phần thạc sĩ nghiên cứu (trừ luận văn). Mỗi NCS hoàn thành tối thiểu 8 TC học phần tiến sĩ.
+Điều 39. Tiểu luận tổng quan và chuyên đề tiến sĩ.
+Hoàn thành tiểu luận tổng quan trong 12 tháng. Hoàn thành 3 chuyên đề tiến sĩ (6 TC).
+Điều 40. Luận án tiến sĩ.
+Điều 41. Điều kiện được bảo vệ luận án tiến sĩ.
+Tác giả chính tối thiểu 2 bài báo kết quả nghiên cứu (1 bài ISI/Scopus, 1 bài tạp chí 0,75 điểm trở lên). Tổng điểm công trình ≥ 2.0.
+Điều 42. Đánh giá luận án tiến sĩ.
+Bảo vệ cấp cơ sở và cấp Đại học.
+Điều 43. Đánh giá lại luận án tiến sĩ.
+Điều 44. Xét cấp bằng tiến sĩ.
+Điều 45. Những thay đổi trong quá trình đào tạo.
+Điều 46. Công nhận và chuyển đổi kết quả học tập, nghiên cứu.
+
+---
+source: QCDT_2025.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_006
+chunk_index: 7
+language: vi
+category: Huong_dan
+year: 2025
+title: Chương VI - Tổ chức thực hiện
+topic_tags: ["quy chế đào tạo", "2025", "quy định chuyển tiếp", "hiệu lực thi hành"]
+---
+
+CHƯƠNG VI: TỔ CHỨC THỰC HIỆN
+Điều 47. Quy định chuyển tiếp.
+Điều 48. Hiệu lực thi hành.
+Quy chế có hiệu lực từ học kỳ 1 năm học 2025-2026.
+Phó Giám đốc PGS.TS. Nguyễn Phong Điền đã ký.

@@ -1,0 +1,176 @@
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_001
+chunk_index: 1
+language: vi
+category: Do_an
+year: 2021
+title: Phương án tốt nghiệp Cử nhân - Yêu cầu đăng ký học phần ĐATN
+topic_tags: ["đăng ký ĐATN", "tốt nghiệp cử nhân", "thực tập kỹ thuật", "đồ án tốt nghiệp"]
+---
+Sinh viên năm thứ 4 tại Đại học Bách khoa Hà Nội muốn tốt nghiệp theo bằng Cử nhân cần đăng ký hai học phần sau trong chương trình Đồ án tốt nghiệp (ĐATN): Thực tập kỹ thuật (2 tín chỉ) và Đồ án tốt nghiệp cử nhân (6 tín chỉ). Sau khi hoàn thành, sinh viên được xét Tốt nghiệp Cử nhân và có thể tham gia xét/nộp tuyển chương trình sau đại học nếu đủ điều kiện.
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_002
+chunk_index: 2
+language: vi
+category: Do_an
+year: 2021
+title: Phương án Cử nhân - Thạc sĩ Khoa học - Điều kiện xét tuyển và cấu trúc chương trình
+topic_tags: ["cử nhân thạc sĩ khoa học", "điều kiện xét tuyển", "CPA", "TOEIC", "đồ án nghiên cứu cử nhân"]
+---
+Sinh viên năm thứ 4 tại Đại học Bách khoa Hà Nội muốn theo đuổi chương trình liên thông Cử nhân - Thạc sĩ Khoa học cần đáp ứng các điều kiện xét tuyển: CPA đạt tối thiểu 2,5; hoàn thành chương trình học tập chuẩn và không nợ học phần; đạt tối thiểu TOEIC 500.
+
+Thay vì làm Đồ án tốt nghiệp cử nhân thông thường, sinh viên bảo vệ Đồ án nghiên cứu cử nhân (8 tín chỉ) — học phần này đã tích hợp sẵn 2 tín chỉ Thực tập kỹ thuật và 6 tín chỉ Đồ án tốt nghiệp cử nhân.
+
+Sau khi tốt nghiệp Cử nhân, sinh viên tiếp tục học Chương trình Thạc sĩ Khoa học với cấu trúc: thời gian học 1,5 năm; tổng 60 tín chỉ, trong đó 12 tín chỉ học phần chung đại học (tùy ngành) và 48 tín chỉ còn lại bao gồm 15 tín chỉ luận văn thạc sĩ. Sinh viên đã hoàn thành Đồ án nghiên cứu cử nhân (tối đa 8 tín chỉ) được phép học song song các học phần Thạc sĩ. Tổng thời gian hoàn thành cả hai bậc học: 5,5 năm.
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_003
+chunk_index: 3
+language: vi
+category: Do_an
+year: 2021
+title: Phương án tốt nghiệp Kỹ sư và liên thông Thạc sĩ - Yêu cầu và cấu trúc chương trình
+topic_tags: ["tốt nghiệp kỹ sư", "liên thông thạc sĩ", "thực tập tốt nghiệp kỹ sư", "đồ án tốt nghiệp kỹ sư"]
+---
+Sinh viên năm thứ 4 tại Đại học Bách khoa Hà Nội muốn tốt nghiệp theo bằng Kỹ sư (theo chương trình đào tạo cử nhân kỹ sư) cần hoàn thành bốn nhóm học phần: tiếp tục đăng ký các học phần trong chương trình đào tạo (2 tín chỉ), Thực tập kỹ thuật (2 tín chỉ), Thực tập tốt nghiệp kỹ sư (3 tín chỉ) và Đồ án tốt nghiệp kỹ sư (9 tín chỉ).
+
+Sau khi tốt nghiệp Kỹ sư, sinh viên có thể tham gia xét/nộp tuyển vào Chương trình Thạc sĩ với cấu trúc: thời gian học 1 đến 1,5 năm; tổng 60 tín chỉ, trong đó 15 tín chỉ học phần chung đại học (tùy ngành) và 45 tín chỉ còn lại bao gồm 15 tín chỉ luận văn thạc sĩ. Tổng thời gian hoàn thành cả hai bậc học: 6 năm.
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_004
+chunk_index: 4
+language: vi
+category: Do_an
+year: 2021
+title: Học phí chương trình Thạc sĩ và chính sách hỗ trợ nghiên cứu theo CPA (2020-2021)
+topic_tags: ["học phí thạc sĩ", "hỗ trợ nghiên cứu", "CPA", "học bổng", "chương trình đào tạo kép"]
+---
+Mức học phí chương trình Thạc sĩ tại Đại học Bách khoa Hà Nội áp dụng năm học 2020-2021: 720.000 đồng/tín chỉ đối với ngành Kỹ thuật Công nghệ; 780.000 đồng/tín chỉ đối với ngành Kinh tế.
+
+Chính sách hỗ trợ nghiên cứu (tính trên học phí sinh viên phải đóng cho chương trình Thạc sĩ): sinh viên có CPA tốt nghiệp bậc Cử nhân từ 2,8 trở lên được hỗ trợ 50% học phí; sinh viên có CPA từ 3,2 trở lên được hỗ trợ 100% học phí.
+
+Lưu ý riêng về chương trình đào tạo kép (Kỹ thuật, Hóa học, Khối Kinh tế, Ngoại ngữ, v.v.): sinh viên các chương trình này tốt nghiệp ở bậc Cử nhân và có thể chọn học tiếp Thạc sĩ theo chương trình được thiết kế riêng cho từng nhóm ngành.
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_005
+chunk_index: 5
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện Công nghệ Sinh học & Thực phẩm và Viện Kỹ thuật Hóa học
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "công nghệ sinh học", "kỹ thuật thực phẩm", "hóa học"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Công nghệ Sinh học và Công nghệ Thực phẩm: BF4792 (Kỹ thuật Sinh học), BF4992 (Kỹ thuật Thực phẩm), BF4992E (CTTT Kỹ thuật Thực phẩm).
+
+Viện Kỹ thuật Hóa học: CH4903 (Hóa học), CH4943 (Kỹ thuật Hóa học), CH4905 (Kỹ thuật In).
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_006
+chunk_index: 6
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện Điện và Viện Điện tử - Viễn thông
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "kỹ thuật điện", "điện tử viễn thông", "tự động hóa"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Điện: EE4920 (Kỹ thuật Điện), EE4920E (CTTT Hệ Điện), EE4921 (Kỹ thuật Điện - Điện tử và Tự động hóa), EE4922 (CTTN ĐKĐT), EE4922E (CTTT ĐKĐT).
+
+Viện Điện tử - Viễn thông: ET4920 (Kỹ thuật Điện tử - Viễn thông), ET4920E (CTTT Kỹ thuật Viễn thông), ET4921E (CTTT ĐTVT), ET4922 (CTTN ĐTVT Truyền thông).
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_007
+chunk_index: 7
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện Kinh tế & Quản lý và Viện Môi trường
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "quản trị kinh doanh", "logistics", "môi trường", "kỹ thuật nhiệt"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Kinh tế và Quản lý: EM4353 (Quản trị Kinh doanh), EM4353E (CTTT Quản trị Kinh doanh), EM4352E (Logistics và Quản lý Chuỗi cung ứng), EM4652 (Quản lý Công nghiệp).
+
+Viện Khoa học và Công nghệ Môi trường: EV4902 (Kỹ thuật Môi trường), HE4490 (Kỹ thuật Nhiệt).
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_008
+chunk_index: 8
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện CNTT & Truyền thông và Viện Toán ứng dụng
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "khoa học máy tính", "trí tuệ nhân tạo", "kỹ thuật máy tính", "toán tin"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Công nghệ Thông tin và Truyền thông: IT4993 (Khoa học Máy tính), IT4998 (Khoa học Máy tính - CTTN), IT4998E (Khoa học Dữ liệu và Trí tuệ Nhân tạo), IT4999 (Kỹ thuật Máy tính).
+
+Viện Toán ứng dụng và Tin học: MI4901 (Toán Tin), MI4902 (CTTN Toán Tin).
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_009
+chunk_index: 9
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện Cơ khí, Vật liệu và Vật lý Kỹ thuật
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "cơ khí", "cơ điện tử", "vật liệu", "vật lý kỹ thuật", "hạt nhân"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Cơ khí: ME4994 (Kỹ thuật Cơ khí), ME4995 (Kỹ thuật Cơ điện tử), ME4995E (CTTT Cơ điện tử), ME4996 (Kỹ thuật Cơ khí - CTTN).
+
+Viện Khoa học và Kỹ thuật Vật liệu: MSE4989 (Kỹ thuật Vật liệu), MSE4989E (CTTT Khoa học Vật liệu).
+
+Viện Vật lý Kỹ thuật: PH4009 (Kỹ thuật Hạt nhân), PH4019 (Vật lý Kỹ thuật và Vật lý Toán).
+
+
+---
+source: DATN_2021_Dang_ky.docx
+parent_doc_id: DATN_2021_Dang_ky
+chunk_id: DATN_2021_010
+chunk_index: 10
+language: vi
+category: Do_an
+year: 2021
+title: Mã học phần Đồ án nghiên cứu Cử nhân 8TC - Viện Cơ khí Động lực và Viện Dệt may & Thời trang
+topic_tags: ["mã học phần", "đồ án nghiên cứu cử nhân", "8 tín chỉ", "kỹ thuật ô tô", "hàng không", "động lực", "dệt may", "công nghệ may"]
+---
+Danh sách mã học phần Đồ án nghiên cứu Cử nhân (8 tín chỉ, khối lượng 0-0-16-32) dùng để đăng ký trên cổng ctt.dao.tao.hust.edu.vn, theo từng Viện tại Đại học Bách khoa Hà Nội.
+
+Viện Cơ khí Động lực: TE4992 (Kỹ thuật Ô tô), TE4992E (CTTT Kỹ thuật Ô tô), TE4996 (Kỹ thuật Hàng không), TE4997 (Kỹ thuật Động lực).
+
+Viện Dệt may - Da giày và Thời trang: TEX4961 (Kỹ thuật Dệt), TEX4962 (Công nghệ May).
+
+Lưu ý: Sinh viên cần đăng ký đúng mã học phần theo chương trình đào tạo của mình trên cổng thông tin đào tạo tại địa chỉ ctt.dao.tao.hust.edu.vn (Đăng nhập → Chương trình đào tạo → Tìm mã học phần theo chương trình).

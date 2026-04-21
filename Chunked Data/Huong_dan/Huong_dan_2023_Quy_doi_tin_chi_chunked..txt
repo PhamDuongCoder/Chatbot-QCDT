@@ -1,0 +1,179 @@
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: 2023
+title: Quyết định số 7323/QĐ-ĐHBK ban hành hướng dẫn quy đổi tín chỉ ĐHBK Hà Nội sang ECTS
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "Quyết định 7323", "quy đổi ECTS", "hướng dẫn tín chỉ", "ĐHBK Hà Nội 2023", "hiệu lực quy đổi"]
+---
+
+QUYẾT ĐỊNH
+
+Ban hành Hướng dẫn quy đổi tương đương tín chỉ học tập của Đại học Bách khoa Hà Nội sang Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS)
+
+GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI
+
+Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/06/2021 của Bộ Giáo dục và Đào tạo về quy định chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ giáo dục đại học;
+Căn cứ Quyết định số 17/VBHN-BGDĐT ngày 15/05/2014 của Bộ Giáo dục và Đào tạo về Ban hành quy chế đào tạo đại học và cao đẳng hệ chính quy theo hệ thống tín chỉ;
+Căn cứ Quy chế đào tạo của Đại học Bách khoa Hà Nội do Giám đốc ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 06 năm 2023;
+
+Theo đề nghị của Trưởng phòng Đào tạo.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Hướng dẫn quy đổi tương đương tín chỉ học tập của Đại học Bách khoa Hà Nội sang Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS).
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Các Ông/Bà Trưởng phòng Đào tạo, Trưởng các đơn vị được giao nhiệm vụ thực hiện đào tạo, các đơn vị có liên quan, các cán bộ viên chức, sinh viên, học viên và nghiên cứu sinh của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3,
+- Lưu: VT, ĐT.
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+
+PGS.TS. Nguyễn Phong Điền
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: 2023
+title: Hệ thống tín chỉ Việt Nam theo quy định Bộ GD&ĐT và ĐHBK Hà Nội
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "tín chỉ Việt Nam", "50 giờ một tín chỉ", "thời lượng học phần", "TC(LT-BT-TN-TH)", "ĐHBK Hà Nội 2023"]
+---
+
+HƯỚNG DẪN QUY ĐỔI TƯƠNG ĐƯƠNG TÍN CHỈ HỌC TẬP CỦA ĐẠI HỌC BÁCH KHOA HÀ NỘI SANG HỆ THỐNG CHUYỂN ĐỔI VÀ TÍCH LŨY TÍN CHỈ CHÂU ÂU (ECTS)
+
+(Kèm theo Quyết định số 7323/QĐ-ĐHBK ngày 21 tháng 8 năm 2023 của Giám đốc Đại học Bách khoa Hà Nội)
+
+1. Hệ thống tín chỉ theo quy định của Việt Nam và Châu Âu
+
+1.1. Hệ thống tín chỉ của Việt Nam
+
+a. Quy định của Bộ Giáo dục và Đào tạo
+- Tín chỉ (TC) được sử dụng để tính khối lượng học tập của sinh viên.
+- 01 TC được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá;
+- Đối với hoạt động dạy trên lớp, 01 TC yêu cầu thực hiện tối thiểu 15 tiết giảng dạy hoặc 30 tiết thực hành, thí nghiệm, bài tập/thảo luận; 45 – 90 giờ thực tập tại cơ sở; 45 – 60 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khóa luận tốt nghiệp; 01 tiết học trên lớp được tính 50 phút.
+- Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm, để tiếp thu được 01 TC sinh viên phải dành ít nhất 30 giờ tự học/chuẩn bị cá nhân.
+
+b. Quy định của Đại học Bách khoa Hà Nội (viết tắt: ĐHBK Hà Nội)
+- Số tín chỉ và phân bố thời lượng học tập của một học phần được biểu diễn dưới dạng TC(LT-BT-TN-TH), trong đó:
+  + TC là tổng số tín chỉ học phần;
+  + LT-BT-TN: là số tiết Lý thuyết - Bài tập/thảo luận - Thí nghiệm/thực tập/đồ án;
+  + TH: số giờ tự học hoặc chuẩn bị cá nhân;
+  + Một học kỳ bao gồm 15 tuần học (tính theo tiết học 50 phút).
+- Thời lượng yêu cầu thực hiện của học phần được tính theo công thức sau:
+
+Tổng số giờ = (LT × 15 tiết + (BT/2 + TN/2) × 30 tiết) × 50 phút/60 phút + TH × 15 giờ
+
+Ví dụ: học phần với phân bố thời lượng 3(2-1-1-6) yêu cầu tổng thời gian thực hiện là:
+Tổng số giờ = (2 × 15 tiết + (1/2 + 1/2) × 30 tiết) × 50 phút/60 phút + 6 × 15 giờ = 140 giờ
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: 2023
+title: Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS) theo hướng dẫn ĐHBK Hà Nội 2023
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "ECTS", "30 giờ một ECTS", "hệ thống Bologna", "quy đổi tín chỉ châu Âu", "ĐHBK Hà Nội"]
+---
+
+1.2. Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu
+- Theo Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (European Credit Transfer and Accumulation System - ECTS), các trường Đại học tham gia tiến trình Bologna¹ áp dụng ECTS để tính khối lượng học tập của sinh viên và so sánh khối lượng học tập giữa các chương trình đào tạo nhằm chuyển đổi, công nhận kết quả học tập của sinh viên trong các chương trình trao đổi học tập giữa các trường thành viên và theo hệ thống đào tạo của các quốc gia khác nhau.
+- 01 ECTS được quy định tương đương 30 giờ cho các tổng thời gian dành cho các hoạt động học tập lý thuyết, bài tập, thực hành, thí nghiệm, thực tập, đồ án, tự học.
+- 01 giờ học được tính bằng 60 phút.
+- Tùy thuộc vào quốc gia, 01 ECTS có thể tương đương trung bình từ 25 giờ đến 30 giờ học tập trên lớp, thực hành, thí nghiệm, thực tập, tự học:
+  + Tại Áo, Ý và Tây Ban Nha: 1 ECTS = 25 giờ học
+  + Tại Phần Lan: 1 ECTS = 27 giờ học
+  + Tại Hà Lan, Bồ Đào Nha: 1 ECTS = 28 giờ học
+  + Tại Cộng hòa liên bang (CHLB) Đức, Bỉ, Romania, Hungary: 1 ECTS = 30 giờ học
+
+¹ Căn cứ tài liệu hướng dẫn sử dụng hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS users' guide 2009)
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_004
+chunk_index: 4
+language: vi
+category: Huong_dan
+year: 2023
+title: Quy trình quy đổi tín chỉ tương đương ĐHBK Hà Nội sang ECTS và bảng quy đổi học phần lý thuyết
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "quy đổi ECTS", "các bước quy đổi", "bảng quy đổi TC", "học phần lý thuyết", "ĐHBK Hà Nội 2023"]
+---
+
+2. Quy đổi tín chỉ học tập của ĐHBK Hà Nội và Đại học ở Châu Âu
+
+2.1. Các bước tính quy đổi tín chỉ tương đương
+- Bước 1: Xác định tổng số giờ sinh viên cần phải học tập để hoàn thành một học phần (hoặc một mô-đun) trong chương trình đào tạo của ĐHBK Hà Nội.
+- Bước 2: Xác định tổng số giờ sinh viên cần phải học tập để hoàn thành một học phần (hoặc một mô-đun) trong chương trình đào tạo của trường Đại học ở Châu Âu cần quy đổi.
+- Bước 3: Tính quy đổi TC tương đương giữa ĐHBK Hà Nội và trường Đại học ở Châu Âu theo thời lượng học tập sinh viên.
+
+2.2. Bảng quy đổi TC tương đương giữa ĐHBK Hà Nội và trường Đại học ở CHLB Đức
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_005
+chunk_index: 5
+language: vi
+category: Huong_dan
+year: 2023
+title: Bảng quy đổi tín chỉ cho học phần thực tập, đồ án môn học và đồ án tốt nghiệp sang ECTS
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "quy đổi thực tập", "ĐAMH ECTS", "ĐATN ECTS", "bảng quy đổi thực hành", "ĐHBK Hà Nội 2023"]
+---
+
+**Bảng quy đổi TC tương đương cho học phần lý thuyết, bài tập, thí nghiệm/thực hành (HP lý thuyết, bài tập, thí nghiệm/thực hành)**
+
+| Số TC và phân bổ của học phần                  | Tổng số thời lượng học tập | Thời lượng ECTS của trường Đại học ở CHLB Đức | Quy đổi TC tương đương sang ECTS |
+|------------------------------------------------|----------------------------|------------------------------------------------|----------------------------------|
+| 1(1-0-0-2)                                     | 42,5 giờ                  | 1 ECTS = 30 giờ                               | 1,42 ECTS                       |
+| 1(0-2-0-2); 1(0-0-2-2); 1(0-1-1-2)            | 55 giờ                    | 1 ECTS = 30 giờ                               | 1,83 ECTS                       |
+| 1(1-1-0-4)                                     | 85 giờ                    | 1 ECTS = 30 giờ                               | 2,83 ECTS                       |
+| 2(2-0-0-4); 2(0-0-2-4)                         | 85 giờ                    | 1 ECTS = 30 giờ                               | 2,84 ECTS                       |
+| 2(2-1-0-4); 2(2-0-1-4); 2(1-2-0-4); 2(1-0-2-4) | 97,5 giờ                 | 1 ECTS = 30 giờ                               | 3,25 ECTS                       |
+| 2(1-3-0-4); 2(0-4-0-4)                         | 110 giờ                   | 1 ECTS = 30 giờ                               | 3,67 ECTS                       |
+| 3(3-0-0-6); 3(0-0-3-6)                         | 127,5 giờ                 | 1 ECTS = 30 giờ                               | 4,25 ECTS                       |
+| 3(3-1-0-6); 3(3-0-1-6); 3(2-1-1-6); 3(2-2-0-6); 3(2-0-2-6) | 140 giờ | 1 ECTS = 30 giờ                               | 4,67 ECTS                       |
+| 3(1-4-0-6)                                     | 152,5 giờ                 | 1 ECTS = 30 giờ                               | 5,08 ECTS                       |
+| 3(0-6-0-6)                                     | 165 giờ                   | 1 ECTS = 30 giờ                               | 5,5 ECTS                        |
+| 4(4-0-0-8); 4(2-2-0-8)                         | 170 giờ                   | 1 ECTS = 30 giờ                               | 5,67 ECTS                       |
+| 4(4-1-0-8); 4(4-0-1-8); 4(3-1-1-8); 4(3-2-0-8) | 182,5 giờ                | 1 ECTS = 30 giờ                               | 6,08 ECTS                       |
+| 4(2-2-2-8); 4(3-2-1-8)                         | 195 giờ                   | 1 ECTS = 30 giờ                               | 6,5 ECTS                        |
+
+---
+source: Huong_dan_2023_quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_quy_doi_tin_chi
+chunk_id: Huong_dan_2023_quy_doi_tin_chi_006
+chunk_index: 6
+language: vi
+category: Huong_dan
+year: 2023
+title: Ghi chú chung về bảng quy đổi tín chỉ ĐHBK Hà Nội sang ECTS năm 2023
+topic_tags: ["hướng dẫn", "2023", "quy đổi tín chỉ", "ghi chú ECTS", "quy đổi CHLB Đức", "hướng dẫn quy đổi 2023", "ĐHBK Hà Nội"]
+---
+
+**Bảng quy đổi TC tương đương cho học phần thực tập, ĐAMH, ĐATN (HP thực tập, ĐAMH, ĐATN)**
+
+| Số TC và phân bổ của học phần | Tổng số thời lượng học tập | Thời lượng ECTS của trường Đại học ở CHLB Đức | Quy đổi TC tương đương sang ECTS |
+|-------------------------------|----------------------------|------------------------------------------------|----------------------------------|
+| 2(0-0-4-4)                    | 110 giờ                   | 1 ECTS = 30 giờ                               | 3,67 ECTS                       |
+| 3(0-0-6-6)                    | 165 giờ                   | 1 ECTS = 30 giờ                               | 5,5 ECTS                        |
+| 6(0-0-12-12)                  | 330 giờ                   | 1 ECTS = 30 giờ                               | 11 ECTS                         |
+| 8(0-0-16-16)                  | 440 giờ                   | 1 ECTS = 30 giờ                               | 14,67 ECTS                      |
+| 9(0-0-18-18)                  | 495 giờ                   | 1 ECTS = 30 giờ                               | 16,5 ECTS                       |
+
+Ghi chú chung:
+- Bảng quy đổi áp dụng cho trường Đại học ở CHLB Đức (1 ECTS = 30 giờ).
+- Các bảng trên được xây dựng dựa trên thời lượng học tập thực tế theo quy định của ĐHBK Hà Nội và chuẩn ECTS của CHLB Đức.

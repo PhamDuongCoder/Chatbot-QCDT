@@ -1,0 +1,75 @@
+---CHUNK 1---
+HƯỚNG DẪN CÔNG NHẬN HỌC PHẦN VÀO CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU
+
+I. Phạm vi áp dụng:
+1. Dành cho học viên chương trình đào tạo kỹ sư chuyên sâu (KSCS) theo chương trình tích hợp.
+2. Dành cho học viên đã được cấp mã số học viên tạm thời và học viên đã được công nhận chính thức.
+
+II. Mục đích:
+1. Học viên chọn các học phần KSCS đã tích lũy khi đang học cử nhân vào bảng điểm KSCS.
+   - Điều kiện áp dụng: Được công nhận tối đa 15 tín chỉ học trước.
+
+2. Học viên học theo chương trình đào tạo tích hợp (CTĐT) sẽ được lựa chọn để công nhận tối đa 12 tín chỉ trong CTĐT cử nhân vào bảng điểm CTĐT KSCS.
+   - Điều kiện áp dụng:
+     + Chỉ áp dụng với các học viên đã tốt nghiệp cử nhân và được công nhận chính thức là học viên CTĐT KSCS.
+     + Số 12 tín chỉ được công nhận này là của các học phần đáp ứng đồng thời 02 điều kiện: Thuộc Mô đun định hướng của CTĐT cử nhân (không tính Thực tập và Đồ án tốt nghiệp cử nhân) và có trong bảng điểm tốt nghiệp cử nhân của sinh viên.
+
+Ghi chú:
+- 12 tín chỉ này sẽ ghi điểm R (không tính vào CPA tốt nghiệp KSCS, chỉ tính vào tổng số tín chỉ tích lũy).
+- Tổng số tín chỉ trong bảng điểm KSCS sẽ là: 12 tín chỉ công nhận (điểm R) + 48 tín chỉ thuộc khung CTĐT KSCS tích hợp = 60 tín chỉ (tối thiểu).
+
+---CHUNK 2---
+III. Các bước thực hiện:
+
+1. Học viên đăng nhập: https://ctt-sis.hust.edu.vn
+2. Sau khi đăng nhập, tại menu cá nhân, chọn mục tương ứng trong phần "KỸ SƯ CHUYÊN SÂU ĐẶC THÙ":
+   - Xác nhận học phần học trước ở Cử nhân (Dành cho mục II.1)
+   - Lấy HP cử nhân vào BĐ tốt nghiệp kỹ sư (Dành cho mục II.2)
+
+Hệ thống sẽ hiển thị giao diện để học viên lựa chọn các học phần mong muốn tích lũy hoặc tích hợp vào chương trình Kỹ sư chuyên sâu. Lưu ý rằng khi đã bấm "Gửi đăng ký", danh mục sẽ KHÔNG được phép điều chỉnh lại.
+
+---CHUNK 3---
+Giao diện: CHỌN HỌC PHẦN TÍCH LŨY TRƯỚC BẬC CỬ NHÂN VÀO CTĐT KỸ SƯ CHUYÊN SÂU
+
+Thông tin quy định:
+- Số tín chỉ tối đa được đăng ký: 15 TC.
+- Sinh viên tích chọn các học phần đã học tích lũy trước ở bậc Cử nhân để công nhận vào CTĐT KSCS.
+
+Bảng các học phần học trước có thể chọn:
+
+| Mã HP | Tên học phần | Học kỳ | Điểm [1] | Số TC [2] | TCĐT [3] | Ngày ĐK | Trạng thái |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| ME4215 | Tự động hóa quá trình hàn | 20232 | A | 3 | 3 | 1/22/2025 | ĐK thành công |
+| ME4274 | Robot hàn | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công |
+| ME4294 | Ứng suất & biến dạng hàn | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công |
+| ME5911 | Phun phủ và hàn đắp | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công |
+| ME5914 | Các quá trình hàn tiên tiến | 20232 | B+ | 2 | 2 | 1/22/2025 | ĐK thành công |
+| ME5919 | Công nghệ & thiết bị hàn vảy | 20232 | B+ | 2 | 2 | 1/22/2025 | ĐK thành công |
+
+[1]: Điểm của học phần khi được công nhận vào CTĐT KSCS.
+[2]: Số tín chỉ của học phần đã học.
+[3]: Số tín chỉ được tính nếu chọn vào CTĐT KSCS.
+
+---CHUNK 4---
+Giao diện: CHỌN HỌC PHẦN TỪ CỬ NHÂN ĐỂ TÍCH HỢP VÀO BẢNG ĐIỂM CTĐT KỸ SƯ CHUYÊN SÂU
+
+Thông tin quy định:
+- Số tín chỉ tối đa lấy trong bảng điểm cử nhân: 12 TC.
+- Các học phần phải thuộc khối Mô đun định hướng, không bao gồm Thực tập tốt nghiệp, Đồ án tốt nghiệp cử nhân hoặc Đồ án nghiên cứu cử nhân.
+- Các học phần này sẽ ghi điểm R và không tính vào CPA tốt nghiệp.
+
+Bảng các học phần có thể chuyển từ Cử nhân:
+
+| Mã HP | Tên học phần | Học kỳ | Điểm [1] | Số TC [2] | Loại HP [3] | Ngày ĐK | Trạng thái |
+| :--- | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
+| ME3150 | Thực tập cơ khí | 20232 | R | 2 | 400,401,402,403,404 | | |
+| ME3267 | Các quá trình hàn | 20231 | R | 2 | 402 | | |
+| ME4064 | Bảo đảm chất lượng hàn | 20231 | R | 2 | 402 | | |
+| ME4128 | Tính toán & thiết kế kết cấu hàn | 20231 | R | 3 | 402 | | đã tích hợp |
+| ME4129 | Thiết bị hàn | 20231 | R | 2 | 402 | 1/3/2025 | thành công |
+| ME4138 | Công nghệ hàn vật liệu kim loại | 20231 | R | 3 | 402 | 1/3/2025 | đã tích hợp thành công |
+| ME4374 | Vật liệu hàn | 20231 | R | 2 | 402 | 1/3/2025 | đã tích hợp thành công |
+
+[1]: Điểm của học phần khi được tích hợp vào bảng điểm KSCS.
+[2]: Số tín chỉ được tính vào tổng số tín chỉ tích lũy của CTĐT KSCS.
+[3]: Ký hiệu quản lý trên hệ thống phần mềm.
