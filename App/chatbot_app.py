@@ -13,7 +13,37 @@ import time
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-DB_PATH = Path(__file__).parent.parent / "VectorStore"
+# Resolve database path (works on both local and Streamlit Cloud)
+def get_db_path():
+    """
+    Find VectorStore path - tries multiple locations
+    1. Parent directory of this script (normal case)
+    2. Current working directory
+    3. VECTORSTORE_PATH environment variable
+    """
+    # Try 1: Relative to this script
+    script_dir = Path(__file__).parent  # App/
+    workspace_root = script_dir.parent  # workspace root
+    db_candidate = workspace_root / "VectorStore"
+    
+    if db_candidate.exists() and (db_candidate / "chroma.sqlite3").exists():
+        return db_candidate
+    
+    # Try 2: Current working directory
+    cwd_candidate = Path.cwd() / "VectorStore"
+    if cwd_candidate.exists() and (cwd_candidate / "chroma.sqlite3").exists():
+        return cwd_candidate
+    
+    # Try 3: Environment variable
+    if "VECTORSTORE_PATH" in os.environ:
+        env_candidate = Path(os.environ["VECTORSTORE_PATH"])
+        if env_candidate.exists() and (env_candidate / "chroma.sqlite3").exists():
+            return env_candidate
+    
+    # Default (will fail with clear error message)
+    return workspace_root / "VectorStore"
+
+DB_PATH = get_db_path()
 COLLECTION_NAME = "qcdt_all"
 EMBEDDING_MODEL = "gemini-embedding-001"
 
@@ -106,11 +136,69 @@ if "db_initialized" not in st.session_state:
 def init_database():
     """Initialize ChromaDB connection (cached)"""
     try:
+        # Check if database path exists
+        if not DB_PATH.exists():
+            st.error(f"""
+            ❌ **Database folder not found!**
+            
+            Looking for: `{DB_PATH}`
+            
+            **This can happen on Streamlit Cloud if:**
+            1. VectorStore wasn't committed to git
+            2. Database path is wrong
+            
+            **Solution:**
+            1. Make sure VectorStore/chroma.sqlite3 exists locally
+            2. Commit to git: `git add VectorStore/`
+            3. Push: `git push`
+            4. Redeploy on Streamlit Cloud
+            
+            **Debug Info:**
+            - Current working directory: {Path.cwd()}
+            - Script location: {Path(__file__)}
+            - DB_PATH looking for: {DB_PATH}
+            """)
+            return None
+        
+        if not (DB_PATH / "chroma.sqlite3").exists():
+            st.error(f"""
+            ❌ **Database file not found!**
+            
+            Found folder: {DB_PATH}
+            But missing: {DB_PATH / "chroma.sqlite3"}
+            
+            **This means the database wasn't embedded yet.**
+            
+            **Solution:**
+            1. Run locally: `python Script/Indexing/batch_embedding.py`
+            2. Commit: `git add VectorStore/`
+            3. Push: `git push`
+            4. Redeploy on Streamlit Cloud
+            """)
+            return None
+        
+        # Connect to database
         client = chromadb.PersistentClient(path=str(DB_PATH))
         collection = client.get_collection(name=COLLECTION_NAME)
         return collection
+        
     except Exception as e:
-        st.error(f"❌ Database Error: {e}")
+        st.error(f"""
+        ❌ **Database Connection Error**
+        
+        Error: {str(e)}
+        
+        **Debug Info:**
+        - DB_PATH: {DB_PATH}
+        - Collection: {COLLECTION_NAME}
+        - Exists: {DB_PATH.exists()}
+        
+        **Try these steps:**
+        1. Check VectorStore folder is in your git repo
+        2. Make sure batch_embedding.py was run
+        3. Verify .gitignore doesn't exclude VectorStore
+        4. Try a fresh git push and redeploy
+        """)
         return None
 
 
