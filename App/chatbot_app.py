@@ -17,14 +17,37 @@ DB_PATH = Path(__file__).parent.parent / "VectorStore"
 COLLECTION_NAME = "qcdt_all"
 EMBEDDING_MODEL = "gemini-embedding-001"
 
-# Load environment
-load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY")
-if not API_KEY:
-    st.error("❌ GOOGLE_API_KEY not found in .env file!")
+# Load API key from Streamlit secrets (Cloud) or .env (Local)
+try:
+    # Try Streamlit secrets first (for Streamlit Cloud deployment)
+    if "GOOGLE_API_KEY" in st.secrets:
+        API_KEY = st.secrets["GOOGLE_API_KEY"]
+    else:
+        # Fall back to .env for local development
+        load_dotenv()
+        API_KEY = os.getenv("GOOGLE_API_KEY")
+    
+    if not API_KEY:
+        raise ValueError("GOOGLE_API_KEY not configured")
+    
+    gemini_client = genai.Client(api_key=API_KEY)
+    
+except Exception as e:
+    st.error(f"""
+    ❌ **API Configuration Error**
+    
+    Cannot find GOOGLE_API_KEY. Please configure it:
+    
+    **For Local Development:**
+    1. Create `.env` file in workspace root
+    2. Add: `GOOGLE_API_KEY=your_api_key_here`
+    
+    **For Streamlit Cloud Deployment:**
+    1. Go to app settings
+    2. Click "Secrets"
+    3. Add: `GOOGLE_API_KEY = "your_api_key_here"`
+    """)
     st.stop()
-
-gemini_client = genai.Client(api_key=API_KEY)
 
 # ── Page Configuration ────────────────────────────────────────────────────────
 
