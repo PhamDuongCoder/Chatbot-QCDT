@@ -1,8 +1,10 @@
---- Thông tin file ---
+=== Thông tin file ===
 Danh mục: QCĐT
 Năm: 2025
+Số chunk: 7
+===
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
 chunk_id: QCDT_2025_001
@@ -12,7 +14,7 @@ category: Huong_dan
 year: 2025
 title: Quyết định số 5445/QĐ-ĐHBK ban hành Quy chế đào tạo Đại học Bách khoa Hà Nội năm 2025
 topic_tags: ["quy chế đào tạo", "2025", "tín chỉ", "GPA", "CPA", "tốt nghiệp", "cử nhân", "kĩ sư", "thạc sĩ", "trừ điểm vắng mặt"]
----
+<<<CHUNK>>>
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC BÁCH KHOA HÀ NỘI
@@ -64,7 +66,7 @@ Quy tắc quy đổi điểm:
 Điều 8. Chuyển cơ sở đào tạo khác.
 Điều 9. Học phí.
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
 chunk_id: QCDT_2025_002
@@ -74,7 +76,7 @@ category: Huong_dan
 year: 2025
 title: Chương I - Những quy định chung của Quy chế đào tạo ĐHBK Hà Nội 2025
 topic_tags: ["quy chế đào tạo", "025", "đào tạo đại học", "tín chỉ", "thời gian học tập", "GPA", "CPA", "học phí"]
----
+<<<CHUNK>>>
 
 CHƯƠNG II: ĐÀO TẠO ĐẠI HỌC
 Điều 10. Đăng ký học tập chương trình đại học.
@@ -111,17 +113,17 @@ Quy đổi sang thang điểm 10:
 Điều 19. Cảnh báo học tập và buộc thôi học.
 Điều 20. Xử lý vi phạm đối với sinh viên.
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
 chunk_id: QCDT_2025_003
-chunk_index: 4
+chunk_index: 3
 language: vi
 category: Huong_dan
 year: 2025
 title: Chương II - Đào tạo đại học theo Quy chế ĐHBK Hà Nội 2025
 topic_tags: ["quy chế đào tạo", "2025", "đào tạo kỹ sư", "chương trình kỹ sư", "học trước", "tốt nghiệp kỹ sư"]
----
+<<<CHUNK>>>
 
 CHƯƠNG III: ĐÀO TẠO KỸ SƯ
 Điều 21. Đăng ký học tập chương trình kỹ sư.
@@ -133,17 +135,17 @@ CHƯƠNG III: ĐÀO TẠO KỸ SƯ
 Điều 25. Nghỉ học tạm thời, tự nguyện thôi học và buộc thôi học.
 Điều 26. Xử lý vi phạm đối với học viên.
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
-chunk_id: QCDT_2025_005
-chunk_index: 5
+chunk_id: QCDT_2025_004
+chunk_index: 4
 language: vi
 category: Huong_dan
 year: 2025
 title: Chương IV - Đào tạo thạc sĩ theo Quy chế ĐHBK Hà Nội 2025
 topic_tags: ["quy chế đào tạo", "2025", "VLVH", "bảo vệ luận văn thạc sĩ", "đào tạo thạc sĩ", "luận văn thạc sĩ", "học bổ sung", "tốt nghiệp thạc sĩ"]
----
+<<<CHUNK>>>
 
 CHƯƠNG IV: ĐÀO TẠO THẠC SĨ
 Điều 27. Đăng ký học tập chương trình thạc sĩ.
@@ -165,17 +167,17 @@ Xếp hạng tốt nghiệp:
 Điều 35. Nghỉ học tạm thời và bảo lưu kết quả học tập.
 Điều 36. Gia hạn thời gian học tập, thôi học.
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
-chunk_id: QCDT_2025_006
-chunk_index: 6
+chunk_id: QCDT_2025_005
+chunk_index: 5
 language: vi
 category: Huong_dan
 year: 2025
 title: Chương V - Đào tạo tiến sĩ 
 topic_tags: ["quy chế đào tạo", "2025", "đào tạo tiến sĩ", "luận án tiến sĩ"]
----
+<<<CHUNK>>>
 
 CHƯƠNG V: ĐÀO TẠO TIẾN SĨ
 Điều 37. Lập kế hoạch và báo cáo tiến độ thực hiện.
@@ -194,17 +196,17 @@ Bảo vệ cấp cơ sở và cấp Đại học.
 Điều 45. Những thay đổi trong quá trình đào tạo.
 Điều 46. Công nhận và chuyển đổi kết quả học tập, nghiên cứu.
 
----
+<<<CHUNK>>>
 source: QCDT_2025.pdf
 parent_doc_id: QCDT_2025
 chunk_id: QCDT_2025_006
-chunk_index: 7
+chunk_index: 6
 language: vi
 category: Huong_dan
 year: 2025
 title: Chương VI - Tổ chức thực hiện
 topic_tags: ["quy chế đào tạo", "2025", "quy định chuyển tiếp", "hiệu lực thi hành"]
----
+<<<CHUNK>>>
 
 CHƯƠNG VI: TỔ CHỨC THỰC HIỆN
 Điều 47. Quy định chuyển tiếp.

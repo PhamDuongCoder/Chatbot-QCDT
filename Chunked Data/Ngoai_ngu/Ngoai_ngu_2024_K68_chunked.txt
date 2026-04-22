@@ -1,8 +1,10 @@
---- Thông tin file ---
+=== Thông tin file ===
 Danh mục: Ngoai_ngu
 Năm: 2024
+Số chunk: 12
+===
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_001
@@ -12,7 +14,7 @@ category: Ngoai_ngu
 year: 2024
 title: Quyết định số 2048/QĐ-ĐHBK ban hành quy định phân loại trình độ đầu vào và chuẩn ngoại ngữ 2024
 topic_tags: ["ngoại ngữ", "2024", "Quyết định 2048", "chuẩn ngoại ngữ", "phân loại đầu vào", "miễn học phần ngoại ngữ", "K68"]
----
+<<<CHUNK>>>
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC BÁCH KHOA HÀ NỘI
@@ -32,7 +34,7 @@ QUYẾT ĐỊNH:
 Điều 2. Giao nhiệm vụ cho Ban Đào tạo, Viện Ngoại ngữ phối hợp với các đơn vị thực hiện.
 Điều 3. Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với Quyết định này đều bãi bỏ.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_002
@@ -42,7 +44,7 @@ category: Ngoai_ngu
 year: 2024
 title: Quy định chung về phạm vi áp dụng, phân loại đầu vào và miễn học phần ngoại ngữ
 topic_tags: ["ngoại ngữ", "2024", "phạm vi áp dụng", "phân loại trình độ đầu vào", "miễn học phần ngoại ngữ", "chuẩn tích lũy", "K68"]
----
+<<<CHUNK>>>
 
 QUY ĐỊNH
 Phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy
@@ -67,7 +69,7 @@ b) Chương trình tiên tiến, tài năng, hợp tác quốc tế: dựa trên
 4. Chứng chỉ quốc tế phải được thẩm định và cập nhật lên hệ thống trước khi nộp đơn.
 5. Hạn nộp đơn: muộn nhất 2 tuần trước khi học kỳ bắt đầu.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_003
@@ -77,7 +79,7 @@ category: Ngoai_ngu
 year: 2024
 title: Yêu cầu chuẩn ngoại ngữ theo tín chỉ tích lũy, hạn chế học tập và hiệu lực thi hành
 topic_tags: ["ngoại ngữ", "2024", "chuẩn ngoại ngữ tích lũy", "hạn chế tín chỉ", "chuẩn đầu ra ngoại ngữ", "K68"]
----
+<<<CHUNK>>>
 
 Điều 4. Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra
 1. Quy định cụ thể cho từng chương trình tại các phụ lục.
@@ -96,7 +98,7 @@ Do đơn vị chức năng đề xuất Giám đốc quyết định.
 1. Áp dụng từ năm học 2023-2024 cho khóa 65 trở về sau.
 2. Quy định cho khóa 64 trở về trước tiếp tục có hiệu lực đến khi kết thúc khóa.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_004
@@ -106,7 +108,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 1 - Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu
 topic_tags: ["ngoại ngữ", "2024", "danh mục", "chương trình đào tạo", "chuẩn", "tài năng", "chất lượng cao", "tiên tiến"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 1: Danh mục các chương trình đào tạo và ngoại ngữ yêu cầu
 
@@ -143,7 +145,7 @@ PHỤ LỤC 1: Danh mục các chương trình đào tạo và ngoại ngữ yê
 | 9. Quản trị kinh doanh (ĐH TROY, Mỹ) | Anh |
 | 10. Khoa học Máy tính (ĐH TROY, Mỹ) | Anh |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_005
@@ -153,7 +155,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 2 - Bảng quy đổi tương đương các chứng chỉ tiếng Anh (bao gồm VSTEP, TOEIC 4 kỹ năng)
 topic_tags: ["ngoại ngữ", "2024", "quy đổi", "chứng chỉ", "VSTEP", "TOEIC", "IELTS", "TOEFL", "PEIC", "K68"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 2: Bảng quy đổi tương đương các chứng chỉ tiếng Anh
 
@@ -180,7 +182,7 @@ Từ viết tắt “NLNNVN”: Khung năng lực ngoại ngữ 6 bậc dùng ch
 + Sinh viên có chứng chỉ TOEIC 2 kỹ năng được công nhận để xét điều kiện chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy, tuy nhiên không được công nhận để xét nhận Đồ án tốt nghiệp/Khóa luận tốt nghiệp, không được công nhận để xét tốt nghiệp.
 + Các trường hợp quy đổi tương đương khác do Ban Đào tạo đề xuất và trình Giám đốc Đại học quyết định.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_006
@@ -190,7 +192,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 3 - Chương trình đào tạo chuẩn và chuẩn tiếng Anh theo tín chỉ tích lũy
 topic_tags: ["ngoại ngữ", "2024", "chuẩn", "chương trình đào tạo chuẩn", "tiếng Anh cơ sở", "tín chỉ tích lũy", "trình độ tối thiểu", "đồ án", "khóa luận", "tốt nghiệp", "K68"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 3: Danh mục học phần tiếng Anh và chuẩn yêu cầu - Chương trình đào tạo chuẩn
 
@@ -221,7 +223,7 @@ Chú thích:
 
 *Ghi chú: Bậc trình độ dựa trên Khung năng lực ngoại ngữ 6 bậc của Việt Nam có trong Phụ lục 2 của quy định này.*
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_007
@@ -231,7 +233,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 4 - Chương trình đào tạo tài năng và chuẩn LIFE
 topic_tags: ["ngoại ngữ", "2024", "tài năng", "chương trình đào tạo tài năng", "LIFE", "tín chỉ tích lũy", "trình độ tối thiểu", "đồ án", "khóa luận", "tốt nghiệp" "K68"]
----
+<<<CHUNK>>>
 
 **PHỤ LỤC 4: Danh mục các học phần tiếng Anh và chuẩn yêu cầu đối với các chương trình đào tạo Tài năng**
 
@@ -261,7 +263,7 @@ Chú thích:
 | Điều kiện được xét nhận đồ án/khóa luận tốt nghiệp | Đạt tối thiểu Bậc 3.2 |
 | Điều kiện khi xét tốt nghiệp | Bậc 3.3 |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_008
@@ -271,7 +273,8 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 5 - Chương trình đào tạo tiên tiến (tiếng Anh) và chuẩn IELTS
 topic_tags: ["ngoại ngữ", "2024", "tiên tiến", "chương trình đào tạo tiên tiến", "IELTS", "K68", "yêu cầu chuẩn", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp", "K68"]
----
+<<<CHUNK>>>
+
 PHỤ LỤC 5: Danh mục học phần và chuẩn yêu cầu - Chương trình đào tạo tiên tiến (Tiếng Anh)
 
 **Bảng 5.1: Danh mục các học phần tiếng Anh yêu cầu (từ K65)**
@@ -309,7 +312,7 @@ Chú thích:
 | Điều kiện được Xét nhận đồ án/khóa luận | IELTS 5.5 hoặc tương đương |
 | Điều kiện Khi xét tốt nghiệp | IELTS 5.5 hoặc tương đương |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_009
@@ -319,7 +322,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 6 - Chương trình hợp tác quốc tế IEP và chuẩn tiếng Anh (trừ và bao gồm ĐH TROY)
 topic_tags: ["ngoại ngữ", "2024", "tiếng anh", "IEP", "TROY", "IELTS", "K68", "tín chỉ tích lũy", "trình độ tối thiểu", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 6: Danh mục học phần và chuẩn yêu cầu - Chương trình hợp tác quốc tế (IEP) (Tiếng Anh)
 
@@ -354,7 +357,7 @@ Chú thích:
 | :--- | :--- |
 | Yêu cầu đầu khóa | Đạt tối thiểu mức điểm của một trong các chứng chỉ sau: IELTS 5.5; TOEFL iBT 61 điểm; PEIC 46 điểm; Cambridge English Scale & Tests(KET, PET, PCE) 162 điểm |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_010
@@ -364,7 +367,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 7 - Chương trình PFIEV và CNTT Việt-Pháp (tiếng Pháp)
 topic_tags: ["ngoại ngữ", "2024", "K68", "tiếng pháp", "PFIEV", "CNTT Việt-Pháp", "tín chỉ tích lũy", "đầu ra", "trình độ ngoại ngữ", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 7: Danh mục học phần và chuẩn yêu cầu - PFIEV và CNTT Việt-Pháp (Tiếng Pháp)
 
@@ -428,7 +431,7 @@ Chú thích:
 
 **Ghi chú:** Chứng chỉ DELF được công nhận vô thời hạn; Chứng chỉ TCF được công nhận trong vòng 2 năm kể từ ngày cấp.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_011
@@ -438,7 +441,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 8 - Chương trình tiếng Đức (ET-LUH & ME-LUH)
 topic_tags: ["ngoại ngữ", "2024", "K68", "tiếng đức", "tín chỉ tích lũy", "trình độ ngoại ngữ", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 8: Danh mục học phần và chuẩn yêu cầu - Các chương trình tiếng Đức
 
@@ -480,11 +483,11 @@ thông, hợp tác với ĐH Leibniz Hannover.
 | A1 | | | A1 |
 | A2 | | DSD1 | A2 |
 | B1 | | DSD1 | B1 |
-| B2 | TDN3 tương đương B2.1 <br> TDN4 tương đương B2.2 | DSD2 | B2 |
+| B2 | TDN3 tương đương B2.1 ; TDN4 tương đương B2.2 | DSD2 | B2 |
 | C1 | TDN5 | DSD2 | C1 |
 | C2 | | | C2 |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2024_K68.pdf
 parent_doc_id: Ngoai_ngu_2024_K68
 chunk_id: Ngoai_ngu_2024_K68_012
@@ -494,7 +497,7 @@ category: Ngoai_ngu
 year: 2024
 title: Phụ lục 9 - Chương trình tiếng Nhật (NUT, IoT, IT Việt-Nhật)
 topic_tags: ["ngoại ngữ", "2024", "K68", "tín chỉ tích lũy", "tiếng nhật", "đầu ra", "trình độ ngoại ngữ", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 PHỤ LỤC 9: Danh mục học phần và chuẩn yêu cầu - Các chương trình tiếng Nhật
 

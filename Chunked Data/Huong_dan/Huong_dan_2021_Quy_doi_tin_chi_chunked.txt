@@ -1,5 +1,11 @@
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+=== Thông tin file ===
+Danh mục: Huong_dan
+Năm: 2021
+Số chunk: 6
+===
+
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_001
 chunk_index: 1
@@ -8,7 +14,7 @@ category: Huong_dan
 year: 2021
 title: Quyết định số 1933/QĐ-ĐHBK-ĐT ban hành quy định công nhận tín chỉ và chuyển đổi học phần tương đương
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "Quyết định 1933", "công nhận tín chỉ", "chuyển đổi học phần", "Ban Đào tạo"]
----
+<<<CHUNK>>>
 
 QUYẾT ĐỊNH
 
@@ -37,8 +43,8 @@ PHÓ HIỆU TRƯỞNG
 
 PGS.TS. Nguyễn Phong Điền
 
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_002
 chunk_index: 2
@@ -47,7 +53,7 @@ category: Huong_dan
 year: 2021
 title: Quy định chuyển đổi kết quả học phần tương đương và công nhận tín chỉ tích lũy - Phạm vi và học phần được công nhận
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", công nhận tín chỉ", "chuyển đổi học phần", "học phần được công nhận"]
----
+<<<CHUNK>>>
 
 QUY ĐỊNH
 Về chuyển đổi kết quả học phần tương đương và công nhận tín chỉ tích lũy
@@ -66,8 +72,8 @@ Về chuyển đổi kết quả học phần tương đương và công nhận 
 4. Các học phần được công nhận sẽ được tính tín chỉ tích lũy và ghi điểm cho học phần tương ứng trong bảng điểm của sinh viên để tính điểm trung bình tích lũy (CPA), (chi tiết trong Phụ lục I). Trường hợp sinh viên có kết quả của một học phần “đạt” theo cách đánh giá của đơn vị đối tác thì học phần đó được công nhận tín chỉ và với điểm R (điểm miễn) và không sử dụng để tính điểm CPA.
 5. Mỗi sinh viên chỉ được xét công nhận tối đa 30 tín chỉ.
 
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_003
 chunk_index: 3
@@ -76,7 +82,7 @@ category: Huong_dan
 year: 2021
 title: Quy trình xét công nhận tín chỉ và trách nhiệm của người học theo Quy định 1933
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "quy trình xét công nhận tín chỉ", "trách nhiệm sinh viên", "đơn xin công nhận", "trách nhiệm của người học", "tổ chức thực hiện", "Phòng Đào tạo"]
----
+<<<CHUNK>>>
 
 Điều 3. Quy trình xét công nhận tín chỉ
 
@@ -101,8 +107,8 @@ topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "quy trình xét
 3. Phòng Đào tạo có các nhiệm vụ: Tư vấn, hướng dẫn về quy định và quy trình công nhận tín chỉ; duyệt kế hoạch học tập và trình Hiệu trưởng ký quyết định cho phép người học được học tập, nghiên cứu ở đơn vị đối tác; thực hiện các thủ tục để công nhận tín chỉ và chuyển đổi kết quả tương đương.
 4. Phòng Công tác sinh viên có các nhiệm vụ: cung cấp thông tin cho người học về các chương trình trao đổi, hợp tác về đào tạo, thực tập, nghiên cứu và cơ hội tuyển dụng tại các đối tác trong nước; là đầu mối liên hệ, hỗ trợ, giám sát quá trình học tập, nghiên cứu, thực tập của người học tại đơn vị đối tác; thống kê số liệu và lập báo cáo kết quả thực hiện.
 
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_004
 chunk_index: 4
@@ -111,7 +117,7 @@ category: Huong_dan
 year: 2021
 title: Phụ lục I - Bảng quy đổi thang điểm theo Quyết định 1933/QĐ-ĐHBK-ĐT
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "bảng quy đổi thang điểm", "thang điểm 10", "thang điểm chữ", "thang điểm 4", "công nhận tín chỉ"]
----
+<<<CHUNK>>>
 
 Phụ lục I
 (Kèm theo Quyết định 1933/QĐ-ĐHBK-ĐT ngày 08/9/2021 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội)
@@ -129,8 +135,8 @@ BẢNG QUY ĐỔI THANG ĐIỂM
 | 7  | Từ 5,0 đến 5,4                 | D+             | 1,5          | 5.2                                                                                 | 4.7                                                         |
 | 8  | Từ 4,0 đến 4,9                 | D              | 1,0          | 4.5                                                                                 | 4.7                                                            |
 
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_005
 chunk_index: 5
@@ -139,7 +145,7 @@ category: Huong_dan
 year: 2021
 title: Phụ lục II - Mẫu đơn đăng ký học, thực tập tại cơ sở đối tác để công nhận tín chỉ
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "mẫu đơn đăng ký học", "đăng ký học phần đối tác", "thỏa thuận học tập", "Learning Agreement"]
----
+<<<CHUNK>>>
 
 Phụ lục II
 MẪU ĐƠN ĐĂNG KÝ HỌC, THỰC TẬP TẠI CƠ SỞ ĐỐI TÁC
@@ -177,8 +183,8 @@ Người làm đơn
 
 Khoa/ Viện xét duyệt          Phòng Đào tạo          Phòng Hợp tác Đối ngoại
 
----
-source: Huong_dan_2021_quy_doi_tin_chi.docx
+<<<CHUNK>>>
+source: Huong_dan_2021_quy_doi_tin_chi.pdf
 parent_doc_id: Huong_dan_2021_quy_doi_tin_chi
 chunk_id: Huong_dan_2021_quy_doi_tin_chi_006
 chunk_index: 6
@@ -187,7 +193,7 @@ category: Huong_dan
 year: 2021
 title: Phụ lục III - Mẫu đơn đề nghị công nhận tín chỉ và chuyển điểm kèm bảng chi tiết
 topic_tags: ["hướng dẫn", "2021", "quy đổi tín chỉ", "công nhận tín chỉ", "mẫu đơn công nhận tín chỉ", "đơn chuyển điểm", "bảng học phần đối tác"]
----
+<<<CHUNK>>>
 
 Phụ lục III
 MẪU ĐƠN ĐỀ NGHỊ CÔNG NHẬN TÍN CHỈ VÀ CHUYỂN ĐIỂM

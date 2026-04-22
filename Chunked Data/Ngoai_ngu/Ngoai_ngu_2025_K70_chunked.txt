@@ -1,9 +1,10 @@
---- Thông tin file ---
+=== Thông tin file ===
 Danh mục: Ngoai_ngu
-Năm: 2024
----
+Năm: 2025
+Số chunk: 10
+===
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_001
@@ -13,7 +14,7 @@ category: Ngoai_ngu
 year: 2025
 title: Quyết định số 10728/QĐ-ĐHBK ban hành quy định ngoại ngữ cho sinh viên chính quy khóa 70
 topic_tags: ["ngoại ngữ", "2025", "K70", "quyết định 10728", "chuẩn ngoại ngữ", "đầu ra"]
----
+<<<CHUNK>>>
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC BÁCH KHOA HÀ NỘI
@@ -67,7 +68,7 @@ PHÓ GIÁM ĐỐC
 
 PGS.TS. Nguyễn Phong Điền
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_002
@@ -77,7 +78,7 @@ category: Ngoai_ngu
 year: 2025
 title: Quy định chung về phạm vi áp dụng, phân loại đầu vào và lộ trình học ngoại ngữ cơ bản
 topic_tags: ["ngoại ngữ", "2025", "K70", "phạm vi áp dụng", "phân loại trình độ đầu vào", "miễn học phần", "lộ trình học", "tín chỉ tích lũy"]
----
+<<<CHUNK>>>
 
 QUY ĐỊNH
 Phân loại trình độ đầu vào, chương trình ngoại ngữ cơ bản
@@ -173,7 +174,7 @@ trước đây thì áp dụng mức quy đổi cao hơn trong hai quy định; 
 về trước (trừ quy định về quy đổi tương đương chứng chỉ) vẫn tiếp tục có hiệu lực thi
 hành cho đến thời điểm kết thúc khóa đào tạo.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_003
@@ -183,7 +184,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục I - Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu
 topic_tags: ["ngoại ngữ", "2025", "K70", "ngoại ngữ chính", "chương trình chuẩn", "tiên tiến", "hợp tác quốc tế", "tiếng Anh", "tiếng Pháp", "tiếng Nhật", "tiếng Đức", "tiếng Trung"]
----
+<<<CHUNK>>>
 
 Phụ lục I
 DANH MỤC CÁC CHƯƠNG TRÌNH ĐÀO TẠO
@@ -227,7 +228,7 @@ của Giám đốc Đại học Bách khoa Hà Nội)
 | 5. Quản trị kinh doanh (Đại học TROY, Mỹ) | Tiếng Anh |
 | 6. Khoa học Máy tính (Đại học TROY, Mỹ) | Tiếng Anh |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_004
@@ -237,7 +238,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục II - Bảng quy đổi tương đương các chứng chỉ tiếng Anh
 topic_tags: ["ngoai ngu", "2025", "K70", "quy đổi chứng chỉ", "VSTEP", "IELTS", "TOEIC", "TOEFL", "tiếng Anh", "tín chỉ tích lũy", "đầu ra"]
----
+<<<CHUNK>>>
 
 Phụ lục II
 BẢNG QUY ĐỔI TƯƠNG ĐƯƠNG CÁC CHỨNG CHỈ TIẾNG ANH
@@ -269,7 +270,7 @@ Ghi chú:
 - Không công nhận sử dụng chứng chỉ tiếng Anh TOEFL iBT theo hình thức Home Edition.
 - Các trường hợp quy đổi tương đương khác do Ban Đào tạo đề xuất và trình Giám đốc đại học quyết định.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_005
@@ -279,7 +280,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục III - Học phần ngoại ngữ cơ bản và chuẩn đầu ra cho CTĐT chuẩn & tài năng (tiếng Anh)
 topic_tags: ["ngoai ngu", "2025", "K70", "chuẩn", "CTĐT chuẩn", "tài năng", "CTĐT tài năng", "tiếng Anh", "học phần cơ bản", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 Phụ lục III
 DANH MỤC CÁC HỌC PHẦN NGOẠI NGỮ CƠ BẢN - ĐIỀU KIỆN MIỄN HỌC - CHUẨN NGOẠI NGỮ ĐẦU RA
@@ -319,7 +320,7 @@ Bậc trình độ dựa trên quy định tại Bảng 2.1 của Phụ lục II
 | Chuẩn đầu ra khi xét tốt nghiệp với CTĐT chuẩn (trừ các CTĐT nhóm ngành ngôn ngữ) | Đạt chứng chỉ trình độ tối thiểu Bậc 3 (theo Bảng 2.1 của Phụ lục II) |
 | Chuẩn đầu ra khi xét tốt nghiệp với CTĐT tài năng | Được quy định bằng văn bản riêng, phù hợp với chuẩn đầu ra CTĐT tài năng trình độ tương ứng do Bộ Giáo dục và Đào tạo ban hành. |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_006
@@ -329,7 +330,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục IV - Học phần ngoại ngữ cơ bản và chuẩn cho CTĐT tiên tiến Elitech & hợp tác quốc tế (tiếng Anh)
 topic_tags: ["ngoai ngu", "2025", "K70", "tiếng Anh", "tiên tiến", "chương trình tiên tiến", "ELITECH", "học phần cơ bản", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 Phụ lục IV
 DANH MỤC CÁC HỌC PHẦN NGOẠI NGỮ CƠ BẢN - ĐIỀU KIỆN MIỄN HỌC - CHUẨN NGOẠI NGỮ ĐẦU RA
@@ -377,7 +378,7 @@ Chú thích:
 |----------|-------------------------------------|
 | Yêu cầu đầu khóa học | + Có chứng chỉ tiếng Anh VSTEP trình độ B2 trở lên; Hoặc Có chứng chỉ IELTS (Academic) đạt 5.5 trở lên hoặc tương đương. |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_007
@@ -387,7 +388,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục V - Học phần ngoại ngữ cơ bản và chuẩn cho CTĐT Việt-Pháp PFIEV & CNTT Việt-Pháp (tiếng Pháp)
 topic_tags: ["ngoai ngu", "2025", "K70", "tiếng Pháp", "Việt - Pháp", "công nghệ thông tin Việt - Pháp", "PFIEV", "học phần cơ bản", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 Phụ lục V
 DANH MỤC CÁC HỌC PHẦN NGOẠI NGỮ CƠ BẢN - ĐIỀU KIỆN MIỄN HỌC - CHUẨN NGOẠI NGỮ ĐẦU RA
@@ -436,7 +437,7 @@ Ghi chú:
 
 Ghi chú: Văn bằng DELF được công nhận vô thời hạn; Chứng chỉ TCF có giá trị công nhận trong vòng 2 năm kể từ ngày cấp.
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_008
@@ -446,7 +447,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục VI - Học phần ngoại ngữ cơ bản và chuẩn cho CTĐT tiếng Đức
 topic_tags: ["ngoai ngu", "2025", "K70", "tiếng Đức", "học phần cơ bản", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp", "Goethe-Zertifikat", "TestDaF", "DSD", "TELC", "ÖSD", "HUSTGC"]
----
+<<<CHUNK>>>
 
 Phụ lục VI
 DANH MỤC CÁC HỌC PHẦN NGOẠI NGỮ CƠ BẢN - ĐIỀU KIỆN MIỄN HỌC - CHUẨN NGOẠI NGỮ ĐẦU RA
@@ -485,7 +486,7 @@ Ghi chú: (*) Học phần QT1524 Tiếng Đức 5: chỉ dành cho các sinh vi
 | C1 | TDN5 | DSD2 | C1 |
 | C2 |  |  | C2 |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_009
@@ -495,7 +496,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục VII - Học phần ngoại ngữ cơ bản và chuẩn cho CTĐT tiếng Nhật
 topic_tags: ["ngoai ngu", "2025", "K70", "tiếng Nhật", "JP", "JLPT", "N1", "N2", "N3", "N4", "N5", "học phần cơ bản", "tín chỉ tích lũy", "đầu ra", "đồ án", "khóa luận", "tốt nghiệp"]
----
+<<<CHUNK>>>
 
 Phụ lục VII
 DANH MỤC CÁC HỌC PHẦN NGOẠI NGỮ CƠ BẢN - ĐIỀU KIỆN MIỄN HỌC - CHUẨN NGOẠI NGỮ ĐẦU RA
@@ -558,7 +559,7 @@ Chú thích:
 |------|----|----|----|----|----|
 | Bậc trình độ theo KNLNNVN | Bậc 2 | Bậc 3 | Bậc 4 | Bậc 5 | Bậc 6 |
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2025_K70.pdf
 parent_doc_id: Ngoai_ngu_2025_K70
 chunk_id: Ngoai_ngu_2025_K70_010
@@ -568,7 +569,7 @@ category: Ngoai_ngu
 year: 2025
 title: Phụ lục VIII - Chuẩn ngoại ngữ đầu ra cho nhóm ngành ngôn ngữ
 topic_tags: ["ngoai ngu", "2025", "K70", "tiếng Anh", "tiếng Trung", "HSK", "HSKK", "đầu ra", "tốt nghiệp", "ngoại ngữ 1", "ngoại ngữ 2"]
----
+<<<CHUNK>>>
 
 Phụ lục VIII
 CHUẨN NGOẠI NGỮ ĐẦU RA ĐỐI VỚI CÁC CHƯƠNG TRÌNH ĐÀO TẠO NHÓM NGÀNH NGÔN NGỮ

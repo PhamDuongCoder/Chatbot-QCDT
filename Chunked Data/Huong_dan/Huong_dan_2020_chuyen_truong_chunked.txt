@@ -1,4 +1,10 @@
----
+=== Thông tin file ===
+Danh mục: Huong_dan
+Năm: 2020
+Số chunk: 4
+===
+
+<<<CHUNK>>>
 source: Huong_dan_2020_chuyen_truong.docx
 parent_doc_id: Huong_dan_2020_chuyen_truong
 chunk_id: Huong_dan_2020_chuyen_truong_001
@@ -8,11 +14,11 @@ category: Huong_dan
 year: 2021
 title: Phạm vi áp dụng của hướng dẫn thủ tục chuyển trường về Trường ĐH Bách khoa Hà Nội
 topic_tags: ["hướng dẫn", "2020", "chuyển trường", "du học sinh", "sinh viên quốc tế", "phạm vi áp dụng", "Bách khoa Hà Nội"]
----
+<<<CHUNK>>>
+
 Tài liệu này hướng dẫn thủ tục chuyển trường áp dụng với các du học sinh Việt Nam và sinh viên quốc tế có nguyện vọng chuyển từ các trường đại học ở nước ngoài về học tại Trường Đại học Bách khoa Hà Nội.
 
-
----
+<<<CHUNK>>>
 source: Huong_dan_2020_chuyen_truong.docx
 parent_doc_id: Huong_dan_2020_chuyen_truong
 chunk_id: Huong_dan_2020_chuyen_truong_002
@@ -22,15 +28,14 @@ category: Huong_dan
 year: 2021
 title: Các yêu cầu điều kiện tiếp nhận sinh viên chuyển trường từ nước ngoài về Bách khoa Hà Nội
 topic_tags: ["hướng dẫn", "2020", "chuyển trường", "điều kiện chuyển trường", "yêu cầu tiếp nhận", "xếp hạng đại học quốc tế", "chương trình quốc tế", "không bị buộc thôi học"]
----
+<<<CHUNK>>>
 
 Để được tiếp nhận chuyển trường về Trường Đại học Bách khoa Hà Nội, sinh viên và trường đại học nước ngoài phải đáp ứng đồng thời ba điều kiện sau.
 - Thứ nhất, trường đại học tại nước ngoài phải có thứ hạng tương đương hoặc cao hơn thứ hạng của Trường Đại học Bách khoa Hà Nội trong bảng xếp hạng của ít nhất một tổ chức xếp hạng đại học quốc tế uy tín.
 - Thứ hai, sinh viên không thuộc diện bị buộc thôi học tại trường nước ngoài đó.
 - Thứ ba, chương trình đào tạo mà sinh viên xin chuyển đến phải là một trong các chương trình hợp tác đào tạo với nước ngoài hoặc các chương trình có ngôn ngữ giảng dạy bằng tiếng nước ngoài đang có tại Trường Đại học Bách khoa Hà Nội.
 
-
----
+<<<CHUNK>>>
 source: Huong_dan_2020_chuyen_truong.docx
 parent_doc_id: Huong_dan_2020_chuyen_truong
 chunk_id: Huong_dan_2020_chuyen_truong_003
@@ -40,7 +45,7 @@ category: Huong_dan
 year: 2021
 title: Danh mục giấy tờ hồ sơ cần chuẩn bị khi xin chuyển trường từ nước ngoài về Bách khoa Hà Nội
 topic_tags: ["hướng dẫn", "2020", "chuyển trường", "hồ sơ chuyển trường", "giấy tờ cần nộp", "bảng kết quả học tập", "công nhận tín chỉ tương đương", "bản dịch công chứng", "đơn xin chuyển trường"]
----
+<<<CHUNK>>>
 
 Hồ sơ xin chuyển trường về Trường Đại học Bách khoa Hà Nội gồm các giấy tờ sau.
 - Minh chứng xếp hạng của trường đại học nước ngoài (ĐHNN): bản in trang web xếp hạng hoặc trang web nhà trường có công bố thứ hạng, kèm đường link nguồn.
@@ -50,8 +55,7 @@ Hồ sơ xin chuyển trường về Trường Đại học Bách khoa Hà Nội
 Bản photo bảng kết quả học tập tại trường đại học nước ngoài; nếu ngôn ngữ đào tạo không phải tiếng Anh thì phải có bản dịch công chứng. Bản chính sẽ nộp sau khi hồ sơ được xét duyệt chính thức.
 Để phục vụ việc công nhận tín chỉ tích lũy tương đương, cần bổ sung thêm: bản mô tả cách xếp loại kết quả học phần và cách quy đổi tín chỉ tại trường đại học nước ngoài; bản mô tả tóm tắt nội dung các học phần đã học, kèm đường link nếu có.
 
-
----
+<<<CHUNK>>>
 source: Huong_dan_2020_chuyen_truong.docx
 parent_doc_id: Huong_dan_2020_chuyen_truong
 chunk_id: Huong_dan_2020_chuyen_truong_004
@@ -61,7 +65,8 @@ category: Huong_dan
 year: 2021
 title: Cách thức nộp hồ sơ chuyển trường và đường link tải file hướng dẫn chi tiết
 topic_tags: ["hướng dẫn", "2020", "chuyển trường", "nộp hồ sơ chuyển trường", "Phòng Đào tạo HUST", "email dt@hust.edu.vn", "nộp trực tiếp", "chuyển phát hồ sơ"]
----
+<<<CHUNK>>>
+
 Hồ sơ xin chuyển trường về Trường Đại học Bách khoa Hà Nội có thể nộp theo một trong ba hình thức.
 - Nộp trực tiếp tại Phòng Đào tạo, phòng 202A-C1, Trường Đại học Bách khoa Hà Nội, trong giờ hành chính các ngày trong tuần.
 - Gửi qua đường chuyển phát đảm bảo tới địa chỉ: Phòng Đào tạo, Trường Đại học Bách khoa Hà Nội, số 1 Đại Cồ Việt, Hà Nội, Việt Nam.

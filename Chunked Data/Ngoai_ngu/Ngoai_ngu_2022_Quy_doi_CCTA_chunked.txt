@@ -1,8 +1,10 @@
---- Thông tin file ---
+=== Thông tin file ===
 Danh mục: Ngoai_ngu
 Năm: 2022
+Số chunk: 2
+===
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
 parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
 chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_001
@@ -12,7 +14,7 @@ category: Ngoai_ngu
 year: 2022
 title: Quyết định số 5743/QĐ-ĐHBK bổ sung chứng chỉ VSTEP vào bảng quy đổi chứng chỉ tiếng Anh
 topic_tags: ["Ngoại ngữ", "2022", "Quyết định 5743", "VSTEP", "quy đổi chứng chỉ tiếng Anh", "ĐHBK Hà Nội 2022", "bổ sung Phụ lục 2"]
----
+<<<CHUNK>>>
 
 # Quyết định bổ sung danh mục quy đổi tương đương chứng chỉ tiếng Anh – ĐHBK Hà Nội (2022)
 
@@ -44,7 +46,7 @@ QUYẾT ĐỊNH:
 KT. HIỆU TRƯỞNG – PHÓ HIỆU TRƯỞNG
 PGS.TS. Nguyễn Phong Điền
 
----
+<<<CHUNK>>>
 source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
 parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
 chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_002
@@ -54,7 +56,7 @@ category: Ngoai_ngu
 year: 2022
 title: Phụ lục 2 cập nhật bảng quy đổi tương đương chứng chỉ tiếng Anh bao gồm VSTEP năm 2022
 topic_tags: ["Ngoại ngữ", 2022", "bảng quy đổi VSTEP", "TOEIC IELTS TOEFL VSTEP", "Cambridge English", "quy đổi chứng chỉ 2022", "ĐHBK Hà Nội"]
----
+<<<CHUNK>>>
 
 # Phụ lục 2 – Danh mục quy đổi tương đương các chứng chỉ tiếng Anh (Quyết định 5743/QĐ-ĐHBK, 21/12/2022)
 

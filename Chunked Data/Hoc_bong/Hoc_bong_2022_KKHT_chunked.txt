@@ -1,5 +1,11 @@
----
-source: Hoc_bong_2022_KKHT.docx
+=== Thông tin file ===
+Danh mục: Hoc_bong
+Năm: 2022
+Số chunk: 6
+===
+
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_001
 chunk_index: 1
@@ -7,15 +13,15 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Phạm vi điều chỉnh, đối tượng áp dụng và căn cứ pháp lý
-topic_tags: ["học bổng khuyến khích học tập", "phạm vi áp dụng", "sinh viên chính quy", "Nghị định 84/2020", "Bách khoa Hà Nội"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "phạm vi áp dụng", "sinh viên hệ đại học chính quy", "Nghị định 84/2020"]
+<<<CHUNK>>>
+
 Quy định xét cấp học bổng khuyến khích học tập tại Trường Đại học Bách khoa Hà Nội được ban hành kèm Quyết định số 3258/QĐ-ĐHBK-CTSV ngày 12/9/2022 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội, căn cứ Nghị định số 84/2020/NĐ-CP ngày 17 tháng 7 năm 2020 của Chính phủ và Nghị quyết số 44/NQ-ĐHBK ngày 08 tháng 10 năm 2021 của Hội đồng Trường.
 
 Quy định này điều chỉnh nguyên tắc, tiêu chuẩn xét duyệt và cấp học bổng khuyến khích học tập, áp dụng đối với sinh viên hệ đại học chính quy văn bằng thứ nhất của Trường Đại học Bách khoa Hà Nội.
 
-
----
-source: Hoc_bong_2022_KKHT.docx
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_002
 chunk_index: 2
@@ -23,17 +29,17 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Quy định chung về mục đích, nguồn quỹ và ba mức học bổng (A, B, C)
-topic_tags: ["học bổng khuyến khích học tập", "mức học bổng", "loại A loại B loại C", "quỹ học bổng", "học phí", "GPA"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "mức học bổng", "loại A", "loại B", "loại C", "quỹ học bổng", "học phí", "GPA"]
+<<<CHUNK>>>
+
 Học bổng khuyến khích học tập (KKHT) tại Trường Đại học Bách khoa Hà Nội được cấp cho sinh viên theo từng học kỳ chính của năm học, căn cứ vào thành tích học tập và rèn luyện của từng cá nhân trong học kỳ liền trước đó, nhằm khuyến khích sinh viên nâng cao thành tích học tập và rèn luyện.
 
 Quỹ học bổng KKHT được hình thành từ nguồn học phí, bằng 8% học phí của học kỳ lấy điểm xét cấp học bổng.
 
 Học bổng KKHT có ba mức: Học bổng loại C (loại khá) bằng tổng học phí của tất cả các học phần tính điểm trung bình học kỳ (GPA); Học bổng loại B (loại giỏi) bằng 1,2 lần mức học bổng loại C; Học bổng loại A (loại xuất sắc) bằng 1,5 lần mức học bổng loại C.
 
-
----
-source: Hoc_bong_2022_KKHT.docx
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_003
 chunk_index: 3
@@ -41,13 +47,13 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Tiêu chuẩn điểm GPA và điểm rèn luyện để đạt học bổng loại A, B, C
-topic_tags: ["tiêu chuẩn học bổng", "GPA", "điểm rèn luyện", "học bổng loại A", "học bổng loại B", "học bổng loại C"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "tiêu chuẩn học bổng", "GPA", "điểm rèn luyện", "học bổng loại A", "học bổng loại B", "học bổng loại C"]
+<<<CHUNK>>>
+
 Tiêu chuẩn xét cấp học bổng khuyến khích học tập tại Trường Đại học Bách khoa Hà Nội theo từng mức như sau: Học bổng loại C (khá) yêu cầu GPA đạt tối thiểu 2,5 và điểm rèn luyện học kỳ đạt tối thiểu 65 điểm; Học bổng loại B (giỏi) yêu cầu GPA đạt tối thiểu 3,2 và điểm rèn luyện học kỳ đạt tối thiểu 80 điểm; Học bổng loại A (xuất sắc) yêu cầu GPA đạt tối thiểu 3,6 và điểm rèn luyện học kỳ đạt tối thiểu 90 điểm.
 
-
----
-source: Hoc_bong_2022_KKHT.docx
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_004
 chunk_index: 4
@@ -55,15 +61,15 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Nguyên tắc xét cấp và các trường hợp không được xét học bổng
-topic_tags: ["nguyên tắc xét học bổng", "điều kiện loại trừ", "kỷ luật sinh viên", "tín chỉ tối thiểu", "thứ tự ưu tiên xét học bổng"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "nguyên tắc xét học bổng", "điều kiện loại trừ", "kỷ luật sinh viên", "tín chỉ tối thiểu", "thứ tự ưu tiên xét học bổng"]
+<<<CHUNK>>>
+
 Học bổng khuyến khích học tập tại Trường Đại học Bách khoa Hà Nội được xét theo các nguyên tắc sau: sử dụng kết quả học tập và rèn luyện của học kỳ liền trước để xét cấp cho học kỳ sau; xét theo khóa và ngành đào tạo, ưu tiên theo thứ tự từ loại A đến loại C và từ GPA cao đến GPA thấp cho đến khi hết quỹ; trường hợp GPA bằng nhau thì ưu tiên sinh viên có điểm rèn luyện cao hơn.
 
 Năm trường hợp không được xét cấp học bổng KKHT: (a) Đang chịu hình thức kỷ luật từ mức khiển trách trở lên tại thời điểm xét; (b) Đăng ký học ít hơn 15 tín chỉ tại học kỳ lấy điểm xét (kể cả học phần không tính GPA), ngoại trừ học kỳ 1 năm thứ nhất; (c) Đăng ký học ít hơn 6 tín chỉ tại học kỳ được cấp học bổng; (d) Học quá thời gian theo kế hoạch học tập chuẩn của chương trình đào tạo; (đ) Học chương trình đào tạo do trường đối tác nước ngoài cấp một văn bằng tốt nghiệp duy nhất.
 
-
----
-source: Hoc_bong_2022_KKHT.docx
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_005
 chunk_index: 5
@@ -71,13 +77,13 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Thời hạn công bố kết quả và hình thức chi trả học bổng
-topic_tags: ["công bố kết quả học bổng", "thời gian xét học bổng", "tuần học thứ 10", "chuyển khoản", "điểm chuẩn học bổng"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "công bố kết quả học bổng", "thời gian xét học bổng", "tuần học thứ 10", "chuyển khoản", "điểm chuẩn học bổng"]
+<<<CHUNK>>>
+
 Theo Quy định xét cấp học bổng khuyến khích học tập tại Trường Đại học Bách khoa Hà Nội, danh sách sinh viên được cấp học bổng cùng mức điểm chuẩn để đạt học bổng loại A, B, C theo từng khóa và ngành đào tạo sẽ được công bố chậm nhất vào tuần học thứ 10 của học kỳ cấp học bổng. Học bổng được chi trả bằng tiền Việt Nam đồng theo hình thức chuyển khoản.
 
-
----
-source: Hoc_bong_2022_KKHT.docx
+<<<CHUNK>>>
+source: Hoc_bong_2022_KKHT.pdf
 parent_doc_id: Hoc_bong_2022_KKHT
 chunk_id: Hoc_bong_2022_KKHT_006
 chunk_index: 6
@@ -85,8 +91,9 @@ language: vi
 category: Hoc_bong
 year: 2022
 title: Học bổng KKHT - Cơ cấu Hội đồng xét cấp và hiệu lực thi hành từ học kỳ 1 năm 2022-2023
-topic_tags: ["Hội đồng xét học bổng", "thành phần Hội đồng", "Ban Giám hiệu", "hiệu lực thi hành", "học kỳ 2022-2023"]
----
+topic_tags: ["học bổng khuyến khích học tập", "2022", "Hội đồng xét học bổng", "thành phần Hội đồng", "Ban Giám hiệu", "hiệu lực thi hành", "học kỳ 2022-2023"]
+<<<CHUNK>>>
+
 Hội đồng xét cấp học bổng khuyến khích học tập tại Trường Đại học Bách khoa Hà Nội được thành lập theo quyết định của Hiệu trưởng, có nhiệm vụ giúp Hiệu trưởng thực hiện xét cấp học bổng theo quy định. Thành phần Hội đồng gồm: Chủ tịch Hội đồng là một thành viên của Ban Giám hiệu; Ủy viên thường trực là Trưởng phòng Công tác Sinh viên; các ủy viên là đại diện các đơn vị chức năng gồm Công tác Sinh viên, Đào tạo, Tài chính - Kế toán, Đoàn Thanh niên CSHCM và Hội Sinh viên Trường.
 
 Quy định xét cấp học bổng khuyến khích học tập này có hiệu lực thi hành từ đợt xét, cấp học bổng học kỳ 1 năm học 2022-2023. Các quy định trước đây trái với quy định này đều hết hiệu lực thi hành.

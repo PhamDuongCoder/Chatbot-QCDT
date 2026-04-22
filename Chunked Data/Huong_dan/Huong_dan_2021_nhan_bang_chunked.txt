@@ -1,4 +1,10 @@
----
+=== Thông tin file ===
+Danh mục: Huong_dan
+Năm: 2021
+Số chunk: 2
+===
+
+<<<CHUNK>>>
 source: Huong_dan_2021_nhan_bang.docx
 parent_doc_id: Huong_dan_2021_nhan_bang
 chunk_id: Huong_dan_2021_nhan_bang_001
@@ -8,7 +14,7 @@ category: Huong_dan
 year: 2021
 title: Thủ tục xin nhận bằng tốt nghiệp đại học dành cho sinh viên khóa cũ
 topic_tags: ["hướng dẫn", "2021", "nhận bằng", "nhận bằng tốt nghiệp", "sinh viên khóa cũ", "giấy tờ nhận bằng", "lịch phát bằng", "Ban Đào tạo"]
----
+<<<CHUNK>>>
 
 Hướng dẫn thủ tục xin nhận Bằng tốt nghiệp Đại học
 Xin giấy chứng nhận tốt nghiệp thay bằng bị mất
@@ -21,7 +27,7 @@ Xin giấy chứng nhận tốt nghiệp thay bằng bị mất
 
 Lịch phát bằng cho sinh viên  khoá cũ: Thứ 3, thứ 5 hàng tuần.
 
----
+<<<CHUNK>>>
 source: Huong_dan_2021_nhan_bang.docx
 parent_doc_id: Huong_dan_2021_nhan_bang
 chunk_id: Huong_dan_2021_nhan_bang_002
@@ -31,7 +37,7 @@ category: Huong_dan
 year: 2021
 title: Điều kiện và thời gian cấp giấy chứng nhận tốt nghiệp thay cho bằng đại học bị mất
 topic_tags: ["hướng dẫn", "2021", "nhận bằng", "giấy chứng nhận thay bằng", "bằng đại học bị mất", "thủ tục mất bằng", "Ban Đào tạo", "giấy tờ mất trộm"]
----
+<<<CHUNK>>>
 
 2 - Điều kiện để cấp giấy chứng nhận ( thay Bằng đại học bị mất)
 -    Phải có giấy tường trình về việc mất trộm có xác nhận của công an.

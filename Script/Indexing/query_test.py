@@ -1,23 +1,46 @@
 """
-Interactive Query Script for ChromaDB DATN_2021 Collection
+Interactive Query Script for ChromaDB QCDT Collection
 Truy vấn và kiểm tra dữ liệu trong ChromaDB một cách tương tác
+Uses Google Gemini embedding model to match database embeddings
 """
 
 import chromadb
-from chromadb.utils import embedding_functions
-import json
+import os
 from pathlib import Path
+from dotenv import load_dotenv
+from google import genai
 
 
 # Configuration
 DB_PATH = r"C:\Users\LENOVO\Documents\GitHub\Chatbot QCĐT\VectorStore"
-COLLECTION_NAME = "datn_2021"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+COLLECTION_NAME = "qcdt_all"
+EMBEDDING_MODEL = "gemini-embedding-001"
+
+# Load API key
+load_dotenv()
+API_KEY = os.getenv("GOOGLE_API_KEY")
+if not API_KEY:
+    raise EnvironmentError("GOOGLE_API_KEY not found in .env file.")
+
+gemini_client = genai.Client(api_key=API_KEY)
 
 
 def print_separator(char="=", length=80):
     """In một dòng ngăn cách"""
     print(char * length)
+
+
+def get_query_embedding(query: str) -> list[float]:
+    """
+    Embed a query using Google Gemini with RETRIEVAL_QUERY task type.
+    This matches the embeddings stored in the database.
+    """
+    response = gemini_client.models.embed_content(
+        model=EMBEDDING_MODEL,
+        contents=[query],
+        config={"task_type": "RETRIEVAL_QUERY"},
+    )
+    return response.embeddings[0].values
 
 
 def print_result(index, doc, metadata, distance):
@@ -61,6 +84,7 @@ def main():
     # Initialize ChromaDB client
     print(f"\n🔌 Đang kết nối đến ChromaDB...")
     print(f"   📂 Đường dẫn: {DB_PATH}")
+    print(f"   🤖 Embedding model: {EMBEDDING_MODEL}")
     
     try:
         client = chromadb.PersistentClient(path=str(DB_PATH))
@@ -127,8 +151,12 @@ def main():
         # Execute query
         print(f"\n⏳ Đang truy vấn...")
         try:
+            # Embed the query using Google Gemini
+            query_embedding = get_query_embedding(query)
+            
+            # Query using the embedding
             results = collection.query(
-                query_texts=[query],
+                query_embeddings=[query_embedding],
                 n_results=3
             )
             
