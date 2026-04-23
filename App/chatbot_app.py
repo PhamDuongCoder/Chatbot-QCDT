@@ -370,18 +370,6 @@ def main():
         
         # Database status
         st.subheader("📊 Trạng thái Database")
-        
-        # DEBUG — remove after fixing
-        st.write("📍 Script location:", str(Path(__file__)))
-        st.write("📁 CWD:", str(Path.cwd()))
-        st.write("🗄️ DB_PATH resolved to:", str(DB_PATH))
-        st.write("📂 DB_PATH exists:", DB_PATH.exists())
-        if DB_PATH.exists():
-            st.write("📄 Files inside:", list(DB_PATH.iterdir()))
-        else:
-            # Show what IS in the script directory
-            st.write("📂 Contents of script_dir:", list(Path(__file__).parent.iterdir()))
-            st.write("📂 Contents of CWD:", list(Path.cwd().iterdir()))
 
         collection = init_database()
         if collection:
