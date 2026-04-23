@@ -323,7 +323,7 @@ Câu hỏi của người dùng: {query}
 Vui lòng trả lời dựa trên thông tin được cung cấp ở trên."""
 
         response = gemini_client.models.generate_content(
-            model="gemini-2.5-flash-lite",
+            model="gemini-2.5-flash",
             contents=[
                 {
                     "role": "user",
