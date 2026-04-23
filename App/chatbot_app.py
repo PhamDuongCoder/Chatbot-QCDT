@@ -218,22 +218,53 @@ def init_database():
         return collection
         
     except Exception as e:
-        st.error(f"""
-        ❌ **Database Connection Error**
+        error_msg = str(e)
         
-        Error: {str(e)}
+        # Enhanced error messaging for common issues
+        if "_type" in error_msg or "deserialization" in error_msg.lower():
+            suggestion = """
+**This is a database version incompatibility issue.** The solution:
+
+**For Local Machine:**
+1. Delete the corrupted VectorStore (or just the files inside it, keep folder):
+   ```bash
+   rm -rf VectorStore/*
+   ```
+2. Run the indexing script to rebuild:
+   ```bash
+   python Script/Indexing/batch_embedding.py
+   ```
+3. Test locally before pushing
+
+**For Streamlit Cloud:**
+1. After rebuilding locally, commit and push:
+   ```bash
+   git add VectorStore/
+   git commit -m "Rebuild VectorStore with fixed Chroma version"
+   git push
+   ```
+2. Redeploy on Streamlit Cloud
+3. It will pull the fresh VectorStore files
+            """
+        else:
+            suggestion = f"""
+**Database Connection Failed**
+
+**Debug Info:**
+- Error: {error_msg}
+- DB_PATH: {DB_PATH}
+- Collection: {COLLECTION_NAME}
+- DB Exists: {DB_PATH.exists()}
+- Has chroma.sqlite3: {(DB_PATH / 'chroma.sqlite3').exists()}
+
+**Quick Fix:**
+1. Run: `python Script/Indexing/batch_embedding.py`
+2. Commit: `git add VectorStore/ && git commit -m "Rebuild VectorStore"`
+3. Push: `git push`
+4. Redeploy on Streamlit Cloud
+            """
         
-        **Debug Info:**
-        - DB_PATH: {DB_PATH}
-        - Collection: {COLLECTION_NAME}
-        - Exists: {DB_PATH.exists()}
-        
-        **Try these steps:**
-        1. Check VectorStore folder is in your git repo
-        2. Make sure batch_embedding.py was run
-        3. Verify .gitignore doesn't exclude VectorStore
-        4. Try a fresh git push and redeploy
-        """)
+        st.error(f"❌ **Database Connection Error**\n\n{suggestion}")
         return None
 
 
