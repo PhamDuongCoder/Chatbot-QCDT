@@ -80,6 +80,7 @@ year: 2025
 title: Học phí đại học chính quy 2025-2026 - Chương trình hợp tác quốc tế và học phần ngoại ngữ (Anh, Đức, Pháp, Nhật theo trình độ)
 topic_tags: ["học phí", "2025", "học phí hợp tác quốc tế", "học phí ngoại ngữ", "ME-GU", "IT-LTU", "tiếng Anh", "tiếng Nhật", "trình độ A1 A2 B1 B2"]
 <<<CHUNK>>>
+
 Các chương trình đào tạo hợp tác quốc tế tại Đại học Bách khoa Hà Nội năm học 2025-2026 áp dụng hai mức học phí: mức thấp hơn cho học phần Lý luận chính trị, Giáo dục thể chất, Giáo dục Quốc phòng - An ninh; mức cao hơn cho các học phần khác (trừ ngoại ngữ). Đơn vị: nghìn đồng/TCHP.
 
 Chương trình ME-GU, ME-NUT, IT-LTU, IT-VUW: 700 / 950. Chương trình ME-LUH, ET-LUH, IT-GINP: 700 / 900. Chương trình EM-VUW, EM-NU (IEM): 700 / 1.020.

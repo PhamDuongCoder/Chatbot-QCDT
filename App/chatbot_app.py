@@ -43,22 +43,56 @@ def get_db_path():
     # Default (will fail with clear error message)
     return workspace_root / "VectorStore"
 
-DB_PATH = get_db_path()
+BASE_DIR = Path(__file__).parent.parent
+ENV_PATH = BASE_DIR / ".env"
+DB_PATH = BASE_DIR / "VectorStore"
 COLLECTION_NAME = "qcdt_all"
 EMBEDDING_MODEL = "gemini-embedding-001"
 
 # Load API key from Streamlit secrets (Cloud) or .env (Local)
+def get_api_key():
+    """Get API key from Streamlit secrets or .env file"""
+    
+    # Try 1: Streamlit secrets (for Cloud deployment)
+    try:
+        if "GOOGLE_API_KEY" in st.secrets:
+            return st.secrets["GOOGLE_API_KEY"]
+    except Exception:
+        # Secrets file doesn't exist or can't be read - proceed to next option
+        pass
+    
+    # Try 2: Environment variable (might already be set)
+    if "GOOGLE_API_KEY" in os.environ:
+        return os.environ["GOOGLE_API_KEY"]
+    
+    # Try 3: Load from .env file
+    # Try multiple .env paths to be robust
+    env_paths = [
+        ENV_PATH,  # workspace root
+        Path.cwd() / ".env",  # current working directory
+        Path.home() / ".env",  # home directory
+    ]
+    
+    for env_file in env_paths:
+        if env_file.exists():
+            load_dotenv(dotenv_path=env_file)
+            api_key = os.getenv("GOOGLE_API_KEY")
+            if api_key:
+                return api_key
+    
+    return None
+
 try:
-    # Try Streamlit secrets first (for Streamlit Cloud deployment)
-    if "GOOGLE_API_KEY" in st.secrets:
-        API_KEY = st.secrets["GOOGLE_API_KEY"]
-    else:
-        # Fall back to .env for local development
-        load_dotenv()
-        API_KEY = os.getenv("GOOGLE_API_KEY")
+    API_KEY = get_api_key()
     
     if not API_KEY:
-        raise ValueError("GOOGLE_API_KEY not configured")
+        raise ValueError(f"""
+        GOOGLE_API_KEY not found in:
+        - Streamlit secrets
+        - Environment variables
+        - .env file at {ENV_PATH}
+        - .env file at {Path.cwd() / ".env"}
+        """)
     
     gemini_client = genai.Client(api_key=API_KEY)
     
@@ -66,11 +100,12 @@ except Exception as e:
     st.error(f"""
     ❌ **API Configuration Error**
     
-    Cannot find GOOGLE_API_KEY. Please configure it:
+    {str(e)}
     
     **For Local Development:**
-    1. Create `.env` file in workspace root
-    2. Add: `GOOGLE_API_KEY=your_api_key_here`
+    1. Make sure `.env` file exists in workspace root
+    2. It should contain: `GOOGLE_API_KEY=your_actual_key`
+    3. Restart Streamlit after creating/editing .env
     
     **For Streamlit Cloud Deployment:**
     1. Go to app settings
