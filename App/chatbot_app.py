@@ -15,37 +15,25 @@ import time
 
 # Resolve database path (works on both local and Streamlit Cloud)
 def get_db_path():
-    """
-    Find VectorStore path - tries multiple locations
-    1. Parent directory of this script (normal case)
-    2. Current working directory
-    3. VECTORSTORE_PATH environment variable
-    """
-    # Try 1: Relative to this script
-    script_dir = Path(__file__).parent  # App/
-    workspace_root = script_dir.parent  # workspace root
-    db_candidate = workspace_root / "VectorStore"
-    
-    if db_candidate.exists() and (db_candidate / "chroma.sqlite3").exists():
-        return db_candidate
-    
-    # Try 2: Current working directory
-    cwd_candidate = Path.cwd() / "VectorStore"
-    if cwd_candidate.exists() and (cwd_candidate / "chroma.sqlite3").exists():
-        return cwd_candidate
-    
-    # Try 3: Environment variable
+    script_dir = Path(__file__).parent
+
+    candidates = [
+        script_dir / "VectorStore",          # app.py at repo root
+        script_dir.parent / "VectorStore",   # app.py one level deep (e.g. App/)
+        Path.cwd() / "VectorStore",
+    ]
     if "VECTORSTORE_PATH" in os.environ:
-        env_candidate = Path(os.environ["VECTORSTORE_PATH"])
-        if env_candidate.exists() and (env_candidate / "chroma.sqlite3").exists():
-            return env_candidate
-    
-    # Default (will fail with clear error message)
-    return workspace_root / "VectorStore"
+        candidates.append(Path(os.environ["VECTORSTORE_PATH"]))
+
+    for candidate in candidates:
+        if candidate.exists() and (candidate / "chroma.sqlite3").exists():
+            return candidate
+
+    return script_dir / "VectorStore"  # default fallback with clear error
 
 BASE_DIR = Path(__file__).parent.parent
 ENV_PATH = BASE_DIR / ".env"
-DB_PATH = BASE_DIR / "VectorStore"
+DB_PATH = get_db_path()
 COLLECTION_NAME = "qcdt_all"
 EMBEDDING_MODEL = "gemini-embedding-001"
 
